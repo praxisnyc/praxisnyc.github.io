@@ -1,4 +1,4 @@
-baseURL = "https://praxis.nyc/v5/"
+baseURL = "https://praxis.nyc/"
 languageCode = "en-us"
 title = "Praxis"
 description = "Decolonize your attention"

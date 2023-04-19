@@ -12,11 +12,11 @@ https://praxis.nyc
 - [x] redo initial page with copy josh sent
 - [x] redo list of content
 - [x] redo teams
-- [ ] move study as a subset (how?)
-- [ ] check padding on index
+- [x] move study as a subset (how?)
+- [x] check padding on index
 - [ ] prettify contact
-- [ ] final approval of copy
-- [ ] migrate to root, move original to v4
+- [x] final approval of copy
+- [x] migrate to root, move original to v4
 - [ ] collect all copy on one place for translation
 - [ ] portuguese translation
 - [ ] german translation
@@ -31,6 +31,6 @@ https://praxis.nyc
 
 ## Migration
 
-- [ ] remove v5 from config.toml
-- [ ] remove v5 from redirect-internal
-- [ ] remove v5 from redux
+- [x] remove v5 from config.toml
+- [x] remove v5 from redirect-internal
+- [x] remove v5 from redux

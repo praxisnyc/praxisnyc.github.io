@@ -129,6 +129,29 @@ article.main, .description {
 	@include fadeInDown($delay: var(--delay));
 }
 
+.home {
+	.description {
+			padding-top:  var(--gap-2);
+	&.v5 {
+	border-top: solid 3px var(--color-fg);
+}
+&.study {
+	padding-bottom:  var(--gap-2);
+	border-bottom: solid 3px var(--color-fg);
+.category-description, .btn {
+	margin-top:  var(--gap);
+
+}
+}
+}
+
+header.header {
+	display: grid;
+grid-template-columns: 1fr 2fr;
+grid-gap: 15px;
+}
+}
+
 footer.footer {
 	@include fadeIn($delay: calc(var(--delay) * 6));
 }
@@ -535,7 +558,6 @@ span.badge {
 	border-top: solid 3px var(--color-fg);
 	margin-top: var(--gap-8);
 	padding: var(--gap-2) 0;
-	border-bottom: solid 3px var(--color-fg);
 	p {
 		font-size: 90%;
 	}
