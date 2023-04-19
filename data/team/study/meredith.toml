@@ -1,0 +1,12 @@
+alias = "meredith"
+name = "Meredith"
+surname = "Meredith"
+emoji = "🕶"
+email = "hellomere@protonmail.com"
+location = "New York"
+
+links = [
+	{title = "site", URL =  "https://www.systempoetics.com/"},
+	{title = "mastodon", URL = "https://mas.to/@hackerm0m"},
+	{title = "instagram", URL =  "https://www.instagram.com/hackerm0m/"}
+]

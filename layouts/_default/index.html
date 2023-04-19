@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+{{ partial "html.html" . }}
+{{ partial "head.html" . }}
+<body class="list">
+		{{ partial "cover.html" . }}
+	<div class="background"></div>
+	<div class="box-content">
+			<aside>
+			<div class="fixed">
+					{{ partial "logo.html" . }}
+				{{ partial "footer.html" . }}
+			</div>
+		</aside>
+		<article class="main">
+			<header class="header">
+				<h1>{{ .Site.Title }}</h1>
+				<h2>Decolonize your attention</h2>
+			</header>
+			<div class="description">
+			<p>Praxis is a not-for-profit design studio with a primary interest of delivering tools for the commons, mainly through open-source technologies, with the aim to benefit marginalized communities.</p>
+			</div>
+			<!-- <div class="description">
+			  	<ul class="nav" id="hugo" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" href="#english" data-toggle="tab">
+    	<span data-toggle="tooltip" title="English version" data-html="true" >🇬🇧</span>
+    </a>
+</li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" href="#portuguese" data-toggle="tab" lang="pt">
+    	<span data-toggle="tooltip" title="Versão em português" data-html="true" >🇧🇷</span>
+    </a>
+</li>
+</ul> 
+				<div id="myTabContent" class="tab-content">
+				  <div class="tab-pane fade show in active" id="english">
+				    <p>Praxis is a not-for-profit design studio with a primary interest of delivering tools for the commons, mainly through open-source technologies, with the aim to benefit marginalized communities.</p>
+<p>
+<a href="{{ .Site.BaseURL }}/commons/consulting/" class="btn" target="_blank">Set a time</a></p>
+				    
+				  </div>
+			<div class="tab-pane fade" id="portuguese" lang="pt">
+				     <p>Somos um grupo de tecnologistas e humanistas auxiliando povos originários, quilombolas e comunidades periféricas a estabelecer sua <a data-toggle="popover" data-html="true" data-content='
+				    	Resolvemos problemas específicos da comunidade com consultoria e como tirar o melhor proveito da  tecnologia, expandindo sua autonomia.<br>
+<a class="btn" href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2018001008001">Leia uma resenha</a>
+				    		<a class="btn" href="https://cdn.auckland.ac.nz/assets/psych/about/our-research/documents/TMR%2BM%C4%81ori%2BData%2BSovereignty%2BPrinciples%2BOct%2B2018.pdf">Principles of Māori Data Sovereignty (PDF, inglês)</a>
+				    		'>soberania digital</a> e evadir o <a data-toggle="popover" data-html="true" data-content='
+				    	O modelo econômico que usa os dados de usuários como matéria-prima para predição de comportamento por empresas de tecnologias.<br>
+	<a class="btn" href="https://www.projetodraft.com/verbete-draft-o-que-e-capitalismo-de-vigilancia">Leia  mais sobre capitalismo de vigilância</a>
+				    		'>capitalismo de vigilância</a> por meio de <a data-toggle="popover" data-html="true" data-content='
+				    	A organização rizomática é um método para resistir a um modelo hierárquico que reflete uma estrutura social opressiva.<br>
+	<a class="btn" href="https://pt.wikipedia.org/wiki/Rizoma_(filosofia)">Leia sobre rizoma no Wikipedia</a>
+				    		'>tecnologias rizomáticas</a>.</p>
+				    <p>Resolvemos problemas específicos da comunidade com consultoria (pesquisa, adoção/manutenção de tecnologia e segurança) e facilitando o conhecimento para os membros sobre como tirar o melhor proveito da  tecnologia, expandindo sua autonomia.</p>
+<p>
+<a href="{{ .Site.BaseURL }}/commons/consulting/" class="btn" target="_blank">Marque uma hora</a></p>
+				   
+				  </div>
+				</div>
+</div> -->
+				<div class="category-menu">
+					<section class="status">
+						<h3>Articles</h3>
+						{{ range where .Site.Pages "Params.category" "commons" }}
+						{{ if not (in .Params.status "draft") }}
+						{{ partial "category-post.html" . }}
+						{{ end }}
+						{{ end }}
+							{{ range where .Site.Pages "Params.category" "slide" }}
+						{{ partial "category-post.html" . }}
+						{{ end }}
+						<a  class="category-post" href="{{ .Site.BaseURL }}/study"  style="background-image: url()">
+	<header>
+		<p class="title">Study Sessions</p>
+		<p class="description">aaa</p>
+	</header>
+</a>
+					</section>
+			
+					</div>
+					<div>
+					</div>
+
+		{{ partial "footer.html" . }}
+		</article>
+	</div>
+	{{ partial "scripts.html" . }} 
+</body>
+</html>

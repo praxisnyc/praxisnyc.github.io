@@ -1,0 +1,10 @@
+alias = "lyndsey"
+name = "Lyndsey"
+surname = "Richardson"
+emoji = "🦆"
+location = "New York"
+email = "Richar11489@gmail.com "
+
+links = [
+	{title = "instagram", URL =  "https://www.instagram.com/mariesrichson"}
+]

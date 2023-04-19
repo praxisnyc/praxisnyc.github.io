@@ -1,0 +1,58 @@
+	@include font-face(OpenSans, 
+		$path: "../fonts/OpenSans/", 
+		$file: OpenSans-Regular, 
+		$weight: normal, 
+		$style: normal, 
+		$stretch: normal, 
+		$transform: normal
+		);
+	@include font-face(OpenSans, 
+		$path: "../fonts/OpenSans/", 
+		$file: OpenSans-SemiBold, 
+		$weight: bold, 
+		$style: normal, 
+		$stretch: normal, 
+		$transform: normal
+		);
+
+	.wiley-table * {
+		article.main {
+			width: 1000px !important;
+			margin-left: -300px;
+		}
+		font-family: OpenSans;
+		font-size: 14px;
+		text-align: left;
+		line-height: 125%;
+		.h2 {
+			font-size: 30px;
+			color: #005274;
+			margin-top: 60px !important;
+			display: block;
+		}
+		.background, header.header, .fixed {
+			displaY: none;
+		}
+		a {
+			color: #005274;
+			&:hover {
+				color: #2B7999;
+			}
+		}
+
+		td, th {
+			vertical-align: top;
+			padding-top: 15px;
+			padding-right: 30px;
+			word-break: break-word;
+			&.title {
+				word-break: break-all;
+			}
+			&.size {
+				word-break: keep-all;
+			}
+			&.designation {
+				width: 230px;
+			}
+		}
+	}

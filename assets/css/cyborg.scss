@@ -1,0 +1,56 @@
+.cyborg {
+.instructions {
+	display: none;
+}
+}
+
+	.about, .syllabus, .backlog {
+		margin: 50px 0 !important;
+		border-top: solid 3px black;
+		padding-top: 30px;
+		.date {
+			@extend h2;
+			font-size: 15px;
+			a, a:hover {
+				color: white;
+			}
+		}
+	}
+.syllabus {
+	.session {
+		display: grid;
+		&:not(:first-of-type) {
+			margin-top: 50px;
+		}
+		grid-gap: 30px;
+		grid-template-columns: 100px 1fr;
+	}
+	.count {
+		font-size: 80px;
+		padding-top: 20px;
+		color: white !important;
+		line-height: 90%;
+		width: 100px !important;
+		height: 100px !important;
+		text-align: center;
+		@include radius(50%);
+			width: var(--logo-size);
+			height: var(--logo-size);
+			background-color: rgba(black, .3);
+			color: var(--color-fg); 
+	}
+}
+
+.session {
+ul {
+	padding: 20px;
+	li {
+		@include highlight;
+		.sig {
+			@include opacity(100);
+			font-size: 70%;
+			margin-left: 10px;
+		}
+	}
+}
+}

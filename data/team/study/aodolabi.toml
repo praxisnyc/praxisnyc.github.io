@@ -1,0 +1,10 @@
+alias = "aodolabi"
+name = "Alex"
+surname = "Dolabi"
+emoji = "🐠"
+email = "aodolabi@gmail.com"
+location = "New York"
+
+links = [
+		{title = "instagram", URL = "https://www.instagram.com/aodolabi/"}
+]

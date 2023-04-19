@@ -1,0 +1,13 @@
+alias = "nicholas"
+name = "Nicholas"
+surname = "Frota"
+emoji = "🧤"
+bio = "anarchist fool"
+location = "New York"
+email = "info@nicholasfrota.com"
+
+links = [
+	{title = "site", URL =  "https://nonlinear.nyc"},
+	{title = "mastodon", URL =  "https://mastodon.social/@nonlinear"},
+	{title = "twitter", URL = "https://twitter.com/nonlinear"}
+]
