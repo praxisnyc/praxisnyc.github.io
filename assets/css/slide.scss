@@ -329,11 +329,19 @@ h3 {
 .horizontalteam {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
+  grid-gap: 40px;
   margin-top: 30px;
   div {
-    background-color: white;
-    padding: 15px;
+    span {
+      font-size: 70% !important;
+          @include highlight($spacing: 0px, $top: 10px, $bottom: 10px);
+
+      &.title {
+      font-size: 80% !important;
+      font-weight: bold;
+    }
+    }
+    
   }
 }
 
