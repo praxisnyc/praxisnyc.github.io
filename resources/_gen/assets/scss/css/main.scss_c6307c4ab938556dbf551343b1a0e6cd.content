@@ -19130,31 +19130,29 @@ html.firefox html.slide .status {
 .horizontalteam {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 40px;
+  grid-gap: 50px;
   margin-top: 30px; }
 
 .horizontalteam div span {
   font-size: 70% !important;
-  display: inline;
-  background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  box-decoration-break: clone; }
-
-html.firefox .horizontalteam div span {
-  padding-top: 13px; }
-
-.horizontalteam div span::after {
-  content: "";
+  line-height: 125%;
   display: block;
-  height: 0px;
-  background: none !important; }
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  background-color: #fff; }
 
-.horizontalteam div span.title {
+.horizontalteam div span.name {
   font-size: 80% !important;
   font-weight: bold; }
+
+.horizontalteam div span.links {
+  font-size: 60% !important; }
+
+.horizontalteam div span.links a {
+  margin-left: 5px; }
+
+.horizontalteam div span.links:before {
+  content: "🔗"; }
 
 .nav li .active-only {
   display: none;

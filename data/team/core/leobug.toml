@@ -1,10 +1,12 @@
 alias = "leobug"
 name = "Leandro"
-surname = "Kalkoff"
+surname = "Teixeira Kalkhoff"
 emoji = "🐛"
 location = "Germany"
 email = "leandro@teixeirakalkhoff.eu"
 
 links = [
-	{title = "instagram", URL = "https://www.instagram.com/ltkalkhoff/"}
+	{title = "instagram", URL =  "https://www.instagram.com/ltkalkhoff/"},
+	{title = "portfolio", URL =  "https://leandro.teixeirakalkhoff.eu/"},
+	{title = "linkedin", URL = "https://www.linkedin.com/in/ltkalkhoff"}
 ]

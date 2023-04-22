@@ -8,6 +8,6 @@ email = "info@nicholasfrota.com"
 
 links = [
 	{title = "site", URL =  "https://nonlinear.nyc"},
-	{title = "mastodon", URL =  "https://mastodon.social/@nonlinear"},
-	{title = "twitter", URL = "https://twitter.com/nonlinear"}
+	{title = "mastodon", URL =  "https://mastodon.com.br/@nonlinear"},
+	{title = "linkedin", URL = "https://www.linkedin.com/in/nicholasfrota/"}
 ]
