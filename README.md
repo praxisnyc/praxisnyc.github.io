@@ -14,6 +14,7 @@ https://praxis.nyc
 - [x] redo teams
 - [x] move study as a subset (how?)
 - [x] check padding on index
+- [x] resolve CSS issue (partially resolved: css needs to be moved to `static/css/` as `style.css`)
 - [ ] prettify contact
 - [x] final approval of copy
 - [x] migrate to root, move original to v4
