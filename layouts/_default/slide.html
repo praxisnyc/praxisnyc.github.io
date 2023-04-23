@@ -8,7 +8,7 @@
 			<div class="slides">
 				<section class="cover">
 				<h1>{{ .Title }}</h1>
-				<h2  class="fragment">{{ .Description }}</h2>
+				<h2 class="stagger">{{ .Description }}</h2>
 				 {{ if in .Params.Partners "colet" }}
 					<h3 class="collab fragment">A <a href="{{ .Site.BaseURL }}" >{{ partial "logo-big.svg" . }}</a> and 
 <a href="https://colet.space" target="_blank">

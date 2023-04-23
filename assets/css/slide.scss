@@ -339,15 +339,15 @@ h3 {
       line-height: 125%;
       display: block;
 
-    padding: 5px 10px;
-    margin-bottom: 10px;
-    background-color: #fff;
+      padding: 5px 10px;
+      margin-bottom: 10px;
+      background-color: #fff;
       &.name {
         font-size: 80% !important;
         font-weight: bold;
       }
       &.links {
-        
+
         font-size: 60% !important;
         a {
           margin-left: 5px;
@@ -367,25 +367,55 @@ h3 {
 .mesa-for-remote {
   h2, h1 {
    font-weight: bold;
-  }
-  section:first-of-type {
+ }
+ section:first-of-type {
   h2 {
     font-weight: normal;
     font-size: 45px !important;
   }
-  }
+}
 
 }
 
 .right {
-    float: right;
-        margin-left: 15px;
-  }
+  float: right;
+  margin-left: 15px;
+}
 
 
-  .left {
-    float: left;
-    margin-right: 15px;
+.left {
+  float: left;
+  margin-right: 15px;
+}
+$stagger: 500ms;
+.stagger {
+
+  &:nth-child(1) {
+    @include fadeIn($delay: ($stagger * 1));
   }
+
+  &:nth-child(2) {
+    @include fadeIn($delay: ($stagger * 2));
+  }
+  &:nth-child(3) {
+    @include fadeIn($delay: ($stagger * 3));
+  }
+  &:nth-child(4) {
+    @include fadeIn($delay: ($stagger * 4));
+  }
+  &:nth-child(5) {
+    @include fadeIn($delay: ($stagger * 5));
+  }
+
+  &:nth-child(6) {
+    @include fadeIn($delay: ($stagger * 6));
+  }
+  &:nth-child(7) {
+    @include fadeIn($delay: ($stagger * 7));
+  }
+  &:nth-child(8) {
+    @include fadeIn($delay: ($stagger * 8));
+  }
+}
 
 
