@@ -364,4 +364,28 @@ h3 {
 }
 
 
+.mesa-for-remote {
+  h2, h1 {
+   font-weight: bold;
+  }
+  section:first-of-type {
+  h2 {
+    font-weight: normal;
+    font-size: 45px !important;
+  }
+  }
+
+}
+
+.right {
+    float: right;
+        margin-left: 15px;
+  }
+
+
+  .left {
+    float: left;
+    margin-right: 15px;
+  }
+
 
