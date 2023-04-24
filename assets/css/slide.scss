@@ -393,7 +393,6 @@ $stagger: 300ms;
   &:nth-child(1) {
     @include fadeIn($delay: ($stagger * 1));
   }
-
   &:nth-child(2) {
     @include fadeIn($delay: ($stagger * 2));
   }
