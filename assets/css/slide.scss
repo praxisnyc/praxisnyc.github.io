@@ -387,7 +387,7 @@ h3 {
   float: left;
   margin-right: 15px;
 }
-$stagger: 500ms;
+$stagger: 300ms;
 .stagger {
 
   &:nth-child(1) {
@@ -421,6 +421,14 @@ $stagger: 500ms;
 
 .mesa-1 {
   background-image: url(/images/mesa-for-remote/mesa-1.png);
+  background-position: center center;
+  background-size: cover;
+  height: 600px;
+  display: block;
+}
+
+.mesa-2 {
+  background-image: url(/images/mesa-for-remote/mesa-2.png);
   background-position: center center;
   background-size: cover;
   height: 600px;
