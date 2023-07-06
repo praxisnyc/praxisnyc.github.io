@@ -5,3 +5,4 @@ description = "Decolonize your attention"
 publishDir = "docs"
 logo = "logo-big.svg"
 category = ["study", "commons", "play"]
+include = [".well-known"]
