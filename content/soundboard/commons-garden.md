@@ -14,7 +14,8 @@ date: 2023-07-09
 
 We just finished phase 1 with initial categories (spec, wireframe), and heading to phase 2, with people and organization categories, and better integration between categories.
 
-[View phases list](https://gitlab.com/commons-garden/commons-garden.gitlab.io#commonsgarden)
+- [View phases list](https://gitlab.com/commons-garden/commons-garden.gitlab.io#commonsgarden)
+- [view categories draft](https://www.figma.com/file/7B9UNzqX5ZxXKtVJHNEvUc/documentation?type=whiteboard&t=K6Tsv6HTlRjHZZUL-6)
 
 ### What can I help you with the most?
 
