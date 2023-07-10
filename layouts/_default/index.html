@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+{{ partial "html.html" . }}
+{{ partial "head.html" . }}
+<body class="home list">
+		{{ partial "cover.html" . }}
+	<div class="background"></div>
+	<div class="box-content">
+			<aside>
+			<div class="fixed">
+					{{ partial "logo.html" . }}
+				{{ partial "footer.html" . }}
+			</div>
+		</aside>
+		<article class="main">
+			<header class="header">
+				<div>
+					<h1>{{ .Site.Title }}</h1>
+				</div>
+				<div>
+					<h3>Decolonize<br>your<br>attention</h3>
+				</div>
+			</header>
+			<div class="description v5">
+			<p>Praxis is a not-for-profit design studio with a primary interest of delivering tools for the commons, mainly through open-source technologies.</p>
+			</div>
+			
+				<div class="category-menu">
+					<section class="status">
+						<h3>Articles</h3>
+						{{ range where .Site.Pages "Params.category" "commons" }}
+						{{ if not (in .Params.status "draft") }}
+						{{ partial "category-post.html" . }}
+						{{ end }}
+						{{ end }}
+							{{ range where .Site.Pages "Params.category" "slide" }}
+						{{ if not (in .Params.status "draft") }}
+						{{ partial "category-post.html" . }}
+						{{ end }}
+						{{ end }}
+			
+					</section>
+					<div class="description study">
+						<p class="paths">study</p>
+		
+					<div class="category-description">
+						<p>With seminal topics and diverse authors, we interrogate and develop our disparate and shared practices unto resistance.</p>
+						<a href="{{ .Site.BaseURL }}/study" class="btn">View More</a>
+					</div>
+				</div>
+			
+					</div>
+					<div>
+					</div>
+
+		{{ partial "footer.html" . }}
+		</article>
+	</div>
+	{{ partial "scripts.html" . }} 
+</body>
+</html>

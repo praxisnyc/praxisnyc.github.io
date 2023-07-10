@@ -1,0 +1,10 @@
+alias = "camille"
+name = "Camille"
+emoji = "🗿"
+email = "connect@camilleacey.com"
+location = "sometimes nyc/lenape land and sometimes slovenia/wheelmantown"
+
+
+links = [
+		{title = "colet", URL = "https://colet.space/"}
+]

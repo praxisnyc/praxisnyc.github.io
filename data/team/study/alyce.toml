@@ -1,0 +1,11 @@
+alias = "alyce"
+name = "Alyce"
+surname = "Currier"
+emoji = "🥝"
+email = "hi@alyce.io"
+location = "New York"
+
+links = [
+	{title = "linktree", URL =  "https://linktr.ee/lycheefrut"},
+	{title = "instagram", URL =  "https://www.instagram.com/lycheefrut/"}
+]

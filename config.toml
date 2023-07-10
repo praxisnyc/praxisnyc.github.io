@@ -1,0 +1,7 @@
+baseURL = "https://praxis.nyc/"
+languageCode = "en-us"
+title = "Praxis"
+description = "Decolonize your attention"
+logo = "logo-big.svg"
+category = ["study", "commons", "play"]
+include = [".well-known"]

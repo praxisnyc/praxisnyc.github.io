@@ -1,0 +1,89 @@
+---
+title: commons.garden
+cover: 6e6cc0d3e69c70f303b66f.webp
+status: current
+category: soundboard
+description: on cognitive assemblages
+date: 2022-12-03
+---
+<div class="about">
+  <p>An ad-hoc study series where we learn and debate extended cognition, new technologies and relevant theories to understand what's ahead.</p>
+  <p>We meet every other tuesday 6 PM EST. <a href="https://signal.group/#CjQKIIdZM626CnOYE3Xzk-W1G6CgVXnbrYdrMXHHxZDra1NzEhAGKcSNraIMeX5sHAJKvlFB">Signal group</a> and <a href="https://www.figma.com/file/22B9Kuqfd89zNP4SuIfwi6/Cyborg-study-group?node-id=0%3A1&t=EYuoPxsc3bWx5E8M-1">notes board</a>.</p>
+</div>
+<div class="syllabus">
+  <h2>Notes</h2>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F22B9Kuqfd89zNP4SuIfwi6%2FCyborg-study-group%3Fnode-id%3D0%253A1%26t%3D8Ai2PI28phiJOPNX-1" allowfullscreen></iframe>
+</div>
+
+<div class="syllabus">
+  <h2>Sessions</h2>
+
+<div class="session" id="8">
+    <div class="count">8</div>
+    <div class="content">
+      <p class="date">Apr 18, 2023 7PM EST on <a href="https://meet.jit.si/praxis">jit.si</a></p>
+      <p>Show and tell:</p>
+      <ul>
+      <li><a href="https://www.nytimes.com/article/ai-artificial-intelligence-chatbot.html">Everything to Know About Artificial Intelligence, or AI</a><span class="sig">Article</span></li> <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956718">The Augmented Commons: How Augmented Reality Aids Agile Self-Organization</a><span class="sig">Paper</span></li>
+    </ul>
+
+    </div>
+  </div>
+    <div class="session" id="7">
+    <div class="count">7</div>
+    <div class="content">
+      <p class="date">Mar 7, 2023</p>
+      <p><a href="https://link.springer.com/article/10.1007/s43681-021-00054-3">A framework to contest and justify algorithmic decisions</a> (paper),  <a href="https://www.youtube.com/watch?v=RmIgJ64z6Y4">Dude, you broke the Future!</a> (video)</p>
+    </div>
+  </div>
+
+      <div class="session" id="6">
+    <div class="count">6</div>
+    <div class="content">
+      <p class="date">Feb 21, 2023</p>
+      <p><a href="https://www.thephilosopher1923.org/post/jakob-von-uexkull-umwelt">Jakob von Uexküll’s Concept of Umwelt</a>,  <a href="https://jamesbridle.com/books/ways-of-being">Ways of Being</a> on umwelt (4 pages) and Josh Clark's <a href="https://www.youtube.com/watch?v=Hu5Jc1yIfas">AI Is Your New Design Material</a> (video)</p>
+    </div>
+  </div>
+
+  <div class="session" id="5">
+    <div class="count">5</div>
+    <div class="content">
+      <p class="date">Feb 7, 2023</p>
+      <p><a href="https://www.rand.org/pubs/research_memoranda/RM3420.html">The Information: A History, A Theory, A Flood</a> by James Gleick (chapter 7: Information theory, on Claude Shannon, start at "Shannon had a notion along similar lines.") and <a href="https://www.google.com/search?client=firefox-b-1-d&q=staying+with+the+trouble">Staying with the Trouble</a> by Donna Haraway (chapter 3: Sympoiesis)</p>
+    </div>
+  </div>
+
+  <div class="session" id="4">
+    <div class="count">4</div>
+    <div class="content">
+      <p class="date">Dec 14, 2022</p>
+      <p><a href="https://www.press.umich.edu/9900/simulacra_and_simulation">Simulacra and Simulation</a>: Hypermarket and Hypercommodity (page 52) and The Implosion of Meaning in the Media (page 55)</p>
+    </div>
+  </div>
+
+
+
+  <div class="session" id="3">
+    <div class="count">3</div>
+    <div class="content">
+      <p class="date">Nov 30, 2022</p>
+      <p><a href="https://www.rand.org/pubs/research_memoranda/RM3420.html">Introduction to Distributed Communications Networks</a> by RAND and <a href="https://academic.oup.com/book/6746">Supersizing the Mind</a> by Andy Clark (chapter 2, The Negotiable Body)</p>
+    </div>
+  </div>
+
+  <div class="session" id="2">
+    <div class="count">2</div>
+    <div class="content">
+      <p class="date">Nov 16, 2022</p>
+      <p><a href="https://link.springer.com/chapter/10.1007/978-94-011-3406-4_18">The Uncut Self</a> by Lynn Margulis and Dorion Sagan</p>
+    </div>
+  </div>
+
+  <div class="session" id="1">
+    <div class="count">1</div>
+    <div class="content">
+      <p class="date">Nov 9, 2022</p>
+      <p><a href="http://cumincad.scix.net/data/works/att/7f71.content.pdf">meshworks, hierarchies and interfaces</a> by Manuel DeLanda</p>
+    </div>
+  </div>
+
