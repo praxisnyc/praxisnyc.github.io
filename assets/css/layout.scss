@@ -37,9 +37,9 @@ footer.footer {
 			margin-bottom: var(--gap-2);
 		}
 		a {
-			@include highlight($gap: 5px, $spacing: 5px);
+			@include highlight;
 			&:hover {
-				@include highlight(var(--color-accent-2), $gap: 5px, $spacing: 5px);
+				@include highlight(var(--color-accent-2));
 				color: var(--color-fg);
 
 			}
@@ -98,19 +98,13 @@ footer.footer {
 p {
 	@include highlight;
 	line-height: 160%;
-	&:last-of-type {
-		@include highlight($spacing: 0px);
-	}
 
 }
 
 .list {
 	header.header {
 		h1 {
-			@include highlight(
-				$bg: var(--color-fg), 
-				$spacing: 0px
-				);
+			@include highlight(var(--color-fg));
 		}
 		h2 {
 			text-transform: lowercase;
@@ -156,7 +150,7 @@ footer.footer {
 	@include fadeIn($delay: calc(var(--delay) * 6));
 }
 
-section.category, section.session, section.group, ul.list {
+section.category, study blockuote, section.group, ul.list {
 	&:nth-of-type(1) {
 		@include fadeInDown($delay: calc(var(--delay) * 2));
 	}
@@ -241,8 +235,7 @@ code {
 
 html:not(.slide) {
 	h1, h2, h3, h4 {
-		@include highlight($bg: var(--color-fg), 
-			$spacing: var(--gap-2));
+		@include highlight(var(--color-fg));
 		color: var(--color-bg);
 		text-transform: uppercase;
 		font-weight: bold;
@@ -253,10 +246,7 @@ html:not(.slide) {
 body.home {
 	header.header {
 		h1 {
-			@include highlight(
-				$bg: var(--color-fg), 
-				$spacing: var(--gap-2)
-				);
+			@include highlight(var(--color-fg));
 		}
 	}
 }
@@ -274,10 +264,7 @@ header.header {
 	margin-top: 8px;
 	margin-bottom: var(--gap-2);
 	h1, h2 {
-		@include highlight(
-			$bg: var(--color-fg), 
-			$spacing: 5px
-			);
+		@include highlight(var(--color-fg));
 		color: var(--color-bg);
 		text-transform: uppercase;
 
@@ -290,10 +277,7 @@ header.header {
 			width: 50px;
 		}
 		p {
-			@include highlight(
-				$bg: var(--color-fg),
-				$spacing: 0px
-				);
+			@include highlight(var(--color-fg));
 			line-height: 150%;
 			color: var(--color-bg);
 			font-weight: normal;
@@ -393,8 +377,7 @@ section.feature-list, section.status {
 section.status {
 	padding-top: var(--gap-2);
 	h1,h2, h3, h4, h4 {
-		@include highlight($bg: var(--color-bg), 
-			$spacing: var(--gap-2));
+		@include highlight;
 		color: var(--color-fg);
 	}
 	&:last-of-type {
@@ -455,24 +438,19 @@ section.status {
 			}
 		}
 	}
-	section.session {
-		margin-top: var(--gap-7);
-		display: grid;
-		grid-template-columns: var(--logo-size) 1fr;
 
-		@media screen and (min-width: $bp) {
-			grid-gap: var(--gap-2);
-
-			@include radius(50%); 
+		ul {
+			padding: 0;
 		}
-		@media screen and (max-width: $bp) {
-
-			grid-gap: var(--gap);
+		li {
+		@include highlight;
+		&:first-of-type {
+				font-size: 30px;
+		text-transform: uppercase;
+		font-weight: bold;
 		}
-
-		margin-left: -10px;
-
-		.counter:before {
+		}
+		&:before {
 			displaY: inline-block;
 			width: var(--logo-size);
 			height: var(--logo-size);
@@ -481,49 +459,22 @@ section.status {
 			counter-increment: section;                   /* Increment the value of section counter by 1 */
 			content: counter(section); 
 			color: var(--color-fg); 
-			
-			@media screen and (min-width: $bp) {
-
 				padding-top: 10px; 
 				font-size: 300%;
 
 				@include radius(50%); 
-			}
-			@media screen and (max-width: $bp) {
-
-				padding-top: 5px; 
-				font-size: 200%;
-			}
+			
 			text-align: center; 
 		}
-			
-		&:last-of-type {
-			margin-bottom: var(--gap-7);
-		}
-		.syllabus {
-			@include reset(all);
-			@include reset(list);
-			li {
-				@include highlight;
-				&.title {
-					text-transform: uppercase;
-					font-weight: bold;
-					font-size: 150%;
-					@include highlight($spacing: 0px);
-				}
-				&.meeting {
-					font-size: 80%;
-					text-transform: uppercase;
-				}
-				a {
-					text-transform: uppercase;
-					font-weight: bold;
-				}
-			}
-		}
 		
-	}
+	
 
+}
+
+hr {
+	background-color: black;
+	height: 3px;
+	margin: 40px 0;
 }
 
 
@@ -591,11 +542,7 @@ span.badge {
 		width: var(--gap-2);
 	}
 	span {
-		@include highlight(var(--color-fg),  $gap: 10px, 
-			$spacing: 0px, 
-			$top: 7px, 
-			$bottom: 3px, 
-			$break: true);
+		@include highlight(var(--color-fg));
 		color: var(--color-bg);
 		text-transform: uppercase;
 		font-weight: bold;
@@ -604,29 +551,7 @@ span.badge {
 
 	}
 }
-blockquote {
-	margin-top: var(--gap);
-	padding: var(--gap);
-	padding-left: 0;
-	color: var(--color-fg);
-	font-style: italic;
-	&:before {
-		content: "\201C";
-		font-size: 100px;
-		line-height: 110%;
-		display: block;
-		float: left;
-		padding: 0;
-		z-index: 800;
-		color: var(--color-medium); 
-		text-align: center;  
-		margin-left: -10px; 
-		font-style: normal;
-		margin-top: -10px; 
-		padding-right: var(--gap);
 
-	}
-}
 
 form.tinyletter {
 	margin-top: var(--gap);

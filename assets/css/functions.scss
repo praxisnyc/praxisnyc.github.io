@@ -49,34 +49,10 @@
 
 
 
-  @mixin highlight(
-    $bg: var(--color-bg), 
-    $gap: 10px, 
-    $spacing: 20px, 
-    $top: 7px, 
-    $bottom: 5px, 
-    $break: true
-    ) {
-    display: inline;
+  @mixin highlight($bg: var(--color-bg)) {
+    display: inline-block;
     background: $bg;
-    box-shadow: $gap 0 0 $bg,
-    -$gap 0 0 $bg;
-    position: relative;
-    padding-bottom: $bottom;
-    padding-top: $top;
-    html.firefox & {
-      padding-top: $top + 3px;
-    }
-    box-decoration-break: clone;
-
-    @if $break==true {
-      &::after {
-        content: "";
-        display: block;
-        height: $spacing;
-        background: none !important;
-      }
-    }
+    padding: 10px;
   }
 
   @mixin assorted-bgs {

@@ -82,24 +82,11 @@ table.table {
 }
 
 a[data-toggle="popover"] {
-  @include highlight(
-    $bg: var(--color-accent-2), 
-    $gap: 2px, 
-    $spacing: 0, 
-    $top: 5px, 
-    $bottom: 3px,
-    $break: false
-    );
+  @include highlight(var(--color-accent-2));
   &:hover {
 
-    color: var(--color-bg) !important;@include highlight(
-      $bg: var(--color-accent), 
-      $gap: 2px, 
-      $spacing: 0, 
-      $top: 5px, 
-      $bottom: 3px,
-      $break: false
-      );
+    color: var(--color-bg) !important;
+    @include highlight(var(--color-accent));
   }
 }
 .popover {

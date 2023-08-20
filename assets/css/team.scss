@@ -12,13 +12,13 @@
 		padding: var(--gap-3) 0;
 
 		h1, h2, h3 {
-			@include highlight($bg: var(--color-bg), $spacing: 0);
+			@include highlight;
 			color: var(--color-fg);
 		}
 	}
 	.member {
 		p {
-			@include highlight($spacing: 0);
+			@include highlight;
 
 		}
 		.bio {
@@ -51,7 +51,7 @@
 		}
 
 		.links {
-			@include highlight($spacing: 0);
+			@include highlight;
 			a:not(:last-of-type) {
 				margin-right: 3px;
 				display: inline-block;

@@ -1,4 +1,4 @@
-.zine {
+.redux blockquote {
   width: calc(var(--pdf) * var(--pdf-ratio));
   height: var(--pdf);
   overflow: hidden;
@@ -6,7 +6,7 @@
 
   @include fadeInRight($delay: var(--delay), $duration: 1s);
 
-  .slides {
+  ul {
     display: flex;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
@@ -17,7 +17,7 @@
 
   }
 
-.slides > img {
+ul > li {
 
     scroll-snap-align: start;
     flex-shrink: 0;

@@ -1,6 +1,6 @@
 html.slide {
   h1, h2, h3, h4 {
-    @include highlight($spacing: 0px, $top: 10px, $bottom: 10px);
+    @include highlight;
   }
   body {
     background-color: var(--color-bg);
@@ -28,7 +28,7 @@ html.slide {
   } 
 
   tt {
-    @include highlight(yellow, $break: false, $gap: 0);
+    @include highlight(yellow);
     font-family: var(--font);
 
     & + tt {
@@ -109,7 +109,7 @@ html.slide {
         background: none !important;
       }
       width: 70%;
-     // @include highlight($bg: lighten(yellow, 40%), $spacing: 0px, $top: 7px, $bottom: 5px);
+     // @include highlight(lighten(yellow, 40%));
      font-style: italic;
    }
    q {
@@ -262,7 +262,7 @@ html.slide {
 }
 .status {
   font-size: 1rem;
-  @include highlight(rgba(0,0,0, .2), $top: 10px, $gap: 20px, $break: false);
+  @include highlight(rgba(0,0,0, .2));
   @include radius(20px);
   vertical-align: middle;
   text-transform: none;

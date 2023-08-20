@@ -30,8 +30,7 @@ section.category {
 	.category-description {
 		margin-top: var(--gap);
 		p {
-			@include highlight(var(--color-bg),
-				$spacing: 0);
+			@include highlight;
 		}
 	}
 	.category-menu {
@@ -90,10 +89,11 @@ section.category {
 			font-weight: bold;
 
 		}
+		filter: grayscale(1);
 		&:hover {
-			@include scale(1.1);
+			filter: grayscale(0);
 			p {
-				@include highlight(var(--color-accent),$spacing: 0px);
+				@include highlight(var(--color-accent));
 				color: var(--color-bg);
 
 			}
@@ -102,7 +102,7 @@ section.category {
 		.title {
 			font-size: 150%;
 			line-height: 50%;
-			@include highlight($spacing: 0px);
+			@include highlight;
 		}
 	}
 }

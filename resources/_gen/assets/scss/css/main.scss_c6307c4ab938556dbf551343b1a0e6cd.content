@@ -15050,41 +15050,15 @@ aside footer.footer nav {
   margin-bottom: var(--gap-2); }
 
 aside footer.footer a {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 5px 0 0 var(--color-bg), -5px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox aside footer.footer a {
-  padding-top: 10px; }
-
-aside footer.footer a::after {
-  content: "";
-  display: block;
-  height: 5px;
-  background: none !important; }
+  padding: 10px; }
 
 aside footer.footer a:hover {
-  display: inline;
+  display: inline-block;
   background: var(--color-accent-2);
-  box-shadow: 5px 0 0 var(--color-accent-2), -5px 0 0 var(--color-accent-2);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-fg); }
-
-html.firefox aside footer.footer a:hover {
-  padding-top: 10px; }
-
-aside footer.footer a:hover::after {
-  content: "";
-  display: block;
-  height: 5px;
-  background: none !important; }
 
 article.main footer.footer {
   display: inline; }
@@ -15125,59 +15099,15 @@ html.dark-mode footer.footer a.path:before, html.redux footer.footer a.path:befo
   background-image: url("../images/logo-small-white.svg"); }
 
 p {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   line-height: 160%; }
 
-html.firefox p {
-  padding-top: 10px; }
-
-p::after {
-  content: "";
-  display: block;
-  height: 20px;
-  background: none !important; }
-
-p:last-of-type {
-  display: inline;
-  background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox p:last-of-type {
-  padding-top: 10px; }
-
-p:last-of-type::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
-
 .list header.header h1 {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .list header.header h1 {
-  padding-top: 10px; }
-
-.list header.header h1::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
+  padding: 10px; }
 
 .list header.header h2, .list header.header .about .date, .about .list header.header .date, .list header.header .syllabus .date, .syllabus .list header.header .date, .list header.header .backlog .date, .backlog .list header.header .date {
   text-transform: lowercase;
@@ -15312,7 +15242,7 @@ footer.footer {
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(1), section.session:nth-of-type(1), section.group:nth-of-type(1), ul.list:nth-of-type(1) {
+section.category:nth-of-type(1), study blockuote:nth-of-type(1), section.group:nth-of-type(1), ul.list:nth-of-type(1) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15349,7 +15279,7 @@ section.category:nth-of-type(1), section.session:nth-of-type(1), section.group:n
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(2), section.session:nth-of-type(2), section.group:nth-of-type(2), ul.list:nth-of-type(2) {
+section.category:nth-of-type(2), study blockuote:nth-of-type(2), section.group:nth-of-type(2), ul.list:nth-of-type(2) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15386,7 +15316,7 @@ section.category:nth-of-type(2), section.session:nth-of-type(2), section.group:n
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(3), section.session:nth-of-type(3), section.group:nth-of-type(3), ul.list:nth-of-type(3) {
+section.category:nth-of-type(3), study blockuote:nth-of-type(3), section.group:nth-of-type(3), ul.list:nth-of-type(3) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15423,7 +15353,7 @@ section.category:nth-of-type(3), section.session:nth-of-type(3), section.group:n
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(4), section.session:nth-of-type(4), section.group:nth-of-type(4), ul.list:nth-of-type(4) {
+section.category:nth-of-type(4), study blockuote:nth-of-type(4), section.group:nth-of-type(4), ul.list:nth-of-type(4) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15460,7 +15390,7 @@ section.category:nth-of-type(4), section.session:nth-of-type(4), section.group:n
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(5), section.session:nth-of-type(5), section.group:nth-of-type(5), ul.list:nth-of-type(5) {
+section.category:nth-of-type(5), study blockuote:nth-of-type(5), section.group:nth-of-type(5), ul.list:nth-of-type(5) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15497,7 +15427,7 @@ section.category:nth-of-type(5), section.session:nth-of-type(5), section.group:n
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-section.category:nth-of-type(6), section.session:nth-of-type(6), section.group:nth-of-type(6), ul.list:nth-of-type(6) {
+section.category:nth-of-type(6), study blockuote:nth-of-type(6), section.group:nth-of-type(6), ul.list:nth-of-type(6) {
   -webkit-animation-name: fadeInDown;
   -moz-animation-name: fadeInDown;
   -ms-animation-name: fadeInDown;
@@ -15566,24 +15496,11 @@ a:not(.btn):hover {
   color: var(--color-accent); }
 
 .paths {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   font-size: 35px;
   font-weight: bold; }
-
-html.firefox .paths {
-  padding-top: 10px; }
-
-.paths::after {
-  content: "";
-  display: block;
-  height: 20px;
-  background: none !important; }
 
 .paths:before {
   content: "/";
@@ -15609,43 +15526,17 @@ code {
   color: var(--color-bg); }
 
 html:not(.slide) h1, html:not(.slide) h2, html:not(.slide) .about .date, .about html:not(.slide) .date, html:not(.slide) .syllabus .date, .syllabus html:not(.slide) .date, html:not(.slide) .backlog .date, .backlog html:not(.slide) .date, html:not(.slide) h3, html:not(.slide) h4 {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-bg);
   text-transform: uppercase;
   font-weight: bold; }
 
-html.firefox html:not(.slide) h1, html.firefox html:not(.slide) h2, html.firefox html:not(.slide) .about .date, .about html.firefox html:not(.slide) .date, html.firefox html:not(.slide) .syllabus .date, .syllabus html.firefox html:not(.slide) .date, html.firefox html:not(.slide) .backlog .date, .backlog html.firefox html:not(.slide) .date, html.firefox html:not(.slide) h3, html.firefox html:not(.slide) h4 {
-  padding-top: 10px; }
-
-html:not(.slide) h1::after, html:not(.slide) h2::after, html:not(.slide) .about .date::after, .about html:not(.slide) .date::after, html:not(.slide) .syllabus .date::after, .syllabus html:not(.slide) .date::after, html:not(.slide) .backlog .date::after, .backlog html:not(.slide) .date::after, html:not(.slide) h3::after, html:not(.slide) h4::after {
-  content: "";
-  display: block;
-  height: var(--gap-2);
-  background: none !important; }
-
 body.home header.header h1 {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox body.home header.header h1 {
-  padding-top: 10px; }
-
-body.home header.header h1::after {
-  content: "";
-  display: block;
-  height: var(--gap-2);
-  background: none !important; }
+  padding: 10px; }
 
 h1 {
   font-size: 45px; }
@@ -15661,24 +15552,11 @@ header.header {
   margin-bottom: var(--gap-2); }
 
 header.header h1, header.header h2, header.header .about .date, .about header.header .date, header.header .syllabus .date, .syllabus header.header .date, header.header .backlog .date, .backlog header.header .date {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-bg);
   text-transform: uppercase; }
-
-html.firefox header.header h1, html.firefox header.header h2, html.firefox header.header .about .date, .about html.firefox header.header .date, html.firefox header.header .syllabus .date, .syllabus html.firefox header.header .date, html.firefox header.header .backlog .date, .backlog html.firefox header.header .date {
-  padding-top: 10px; }
-
-header.header h1::after, header.header h2::after, header.header .about .date::after, .about header.header .date::after, header.header .syllabus .date::after, .syllabus header.header .date::after, header.header .backlog .date::after, .backlog header.header .date::after {
-  content: "";
-  display: block;
-  height: 5px;
-  background: none !important; }
 
 header.header .slogan {
   text-transform: capitalize; }
@@ -15688,26 +15566,13 @@ header.header .slogan {
     width: 50px; } }
 
 header.header .slogan p {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   line-height: 150%;
   color: var(--color-bg);
   font-weight: normal;
   font-size: 22px; }
-
-html.firefox header.header .slogan p {
-  padding-top: 10px; }
-
-header.header .slogan p::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
 
 a.btn {
   background-color: var(--color-fg);
@@ -15853,23 +15718,10 @@ section.status {
   padding-top: var(--gap-2); }
 
 section.status h1, section.status h2, section.status .about .date, .about section.status .date, section.status .syllabus .date, .syllabus section.status .date, section.status .backlog .date, .backlog section.status .date, section.status h3, section.status h4 {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-fg); }
-
-html.firefox section.status h1, html.firefox section.status h2, html.firefox section.status .about .date, .about html.firefox section.status .date, html.firefox section.status .syllabus .date, .syllabus html.firefox section.status .date, html.firefox section.status .backlog .date, .backlog html.firefox section.status .date, html.firefox section.status h3, html.firefox section.status h4 {
-  padding-top: 10px; }
-
-section.status h1::after, section.status h2::after, section.status .about .date::after, .about section.status .date::after, section.status .syllabus .date::after, .syllabus section.status .date::after, section.status .backlog .date::after, .backlog section.status .date::after, section.status h3::after, section.status h4::after {
-  content: "";
-  display: block;
-  height: var(--gap-2);
-  background: none !important; }
 
 section.status:last-of-type {
   padding-bottom: var(--gap-2); }
@@ -16047,29 +15899,20 @@ section.status:last-of-type {
 .study:not(.current) .syllabus .calendar, .study:not(.current) .syllabus .room {
   display: none; }
 
-.study section.session {
-  margin-top: var(--gap-7);
-  display: grid;
-  grid-template-columns: var(--logo-size) 1fr;
-  margin-left: -10px; }
+.study ul {
+  padding: 0; }
 
-@media screen and (min-width: 700px) {
-  .study section.session {
-    grid-gap: var(--gap-2);
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    border-radius: 50%;
-    -moz-background-clip: padding;
-    -webkit-background-clip: padding-box;
-    background-clip: padding-box; } }
+.study li {
+  display: inline-block;
+  background: var(--color-bg);
+  padding: 10px; }
 
-@media screen and (max-width: 700px) {
-  .study section.session {
-    grid-gap: var(--gap); } }
+.study li:first-of-type {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold; }
 
-.study section.session .counter:before {
+.study:before {
   displaY: inline-block;
   width: var(--logo-size);
   height: var(--logo-size);
@@ -16078,88 +15921,22 @@ section.status:last-of-type {
   counter-increment: section;
   content: counter(section);
   color: var(--color-fg);
+  padding-top: 10px;
+  font-size: 300%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
   text-align: center; }
 
-@media screen and (min-width: 700px) {
-  .study section.session .counter:before {
-    padding-top: 10px;
-    font-size: 300%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    border-radius: 50%;
-    -moz-background-clip: padding;
-    -webkit-background-clip: padding-box;
-    background-clip: padding-box; } }
-
-@media screen and (max-width: 700px) {
-  .study section.session .counter:before {
-    padding-top: 5px;
-    font-size: 200%; } }
-
-.study section.session:last-of-type {
-  margin-bottom: var(--gap-7); }
-
-.study section.session .syllabus {
-  margin: 0px !important;
-  padding: 0px !important;
-  border: none;
-  background: transparent;
-  list-style: none; }
-
-.study section.session .syllabus:focus {
-  outline-width: 0;
-  outline: none;
-  outline-color: transparent;
-  outline-style: none; }
-
-.study section.session .syllabus li {
-  display: inline;
-  background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .study section.session .syllabus li {
-  padding-top: 10px; }
-
-.study section.session .syllabus li::after {
-  content: "";
-  display: block;
-  height: 20px;
-  background: none !important; }
-
-.study section.session .syllabus li.title {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 150%;
-  display: inline;
-  background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .study section.session .syllabus li.title {
-  padding-top: 10px; }
-
-.study section.session .syllabus li.title::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
-
-.study section.session .syllabus li.meeting {
-  font-size: 80%;
-  text-transform: uppercase; }
-
-.study section.session .syllabus li a {
-  text-transform: uppercase;
-  font-weight: bold; }
+hr {
+  background-color: black;
+  height: 3px;
+  margin: 40px 0; }
 
 .notes {
   border-top: solid 3px var(--color-medium);
@@ -16239,49 +16016,14 @@ span.badge {
   width: var(--gap-2); }
 
 .sig span {
-  display: inline;
+  display: inline-block;
   background: var(--color-fg);
-  box-shadow: 10px 0 0 var(--color-fg), -10px 0 0 var(--color-fg);
-  position: relative;
-  padding-bottom: 3px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-bg);
   text-transform: uppercase;
   font-weight: bold;
   font-size: 90%;
   margin-left: var(--gap-half); }
-
-html.firefox .sig span {
-  padding-top: 10px; }
-
-.sig span::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
-
-blockquote {
-  margin-top: var(--gap);
-  padding: var(--gap);
-  padding-left: 0;
-  color: var(--color-fg);
-  font-style: italic; }
-
-blockquote:before {
-  content: "\201C";
-  font-size: 100px;
-  line-height: 110%;
-  display: block;
-  float: left;
-  padding: 0;
-  z-index: 800;
-  color: var(--color-medium);
-  text-align: center;
-  margin-left: -10px;
-  font-style: normal;
-  margin-top: -10px;
-  padding-right: var(--gap); }
 
 form.tinyletter {
   margin-top: var(--gap);
@@ -16419,22 +16161,9 @@ section.category .category-description {
   margin-top: var(--gap); }
 
 section.category .category-description p {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox section.category .category-description p {
-  padding-top: 10px; }
-
-section.category .category-description p::after {
-  content: "";
-  display: block;
-  height: 0;
-  background: none !important; }
+  padding: 10px; }
 
 section.category .category-menu {
   -webkit-transition: all 300ms ease-out;
@@ -16551,7 +16280,8 @@ html.touch section.category .category-menu {
   height: var(--nav);
   text-decoration: none;
   background-size: cover !important;
-  background-position: center center !important; }
+  background-position: center center !important;
+  filter: grayscale(1); }
 
 .category-menu .category-post:nth-of-type(1) {
   background: #2C3E50;
@@ -16586,50 +16316,20 @@ html.touch section.category .category-menu {
   font-weight: bold; }
 
 .category-menu .category-post:hover {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  transform: scale(1.1); }
+  filter: grayscale(0); }
 
 .category-menu .category-post:hover p {
-  display: inline;
+  display: inline-block;
   background: var(--color-accent);
-  box-shadow: 10px 0 0 var(--color-accent), -10px 0 0 var(--color-accent);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-bg); }
-
-html.firefox .category-menu .category-post:hover p {
-  padding-top: 10px; }
-
-.category-menu .category-post:hover p::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
 
 .category-menu .category-post .title {
   font-size: 150%;
   line-height: 50%;
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .category-menu .category-post .title {
-  padding-top: 10px; }
-
-.category-menu .category-post .title::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
+  padding: 10px; }
 
 .team section.group {
   border-top: solid 3px var(--color-fg);
@@ -16639,23 +16339,10 @@ html.firefox .category-menu .category-post .title {
   border-bottom: solid 3px var(--color-fg); }
 
 .team section.group h1, .team section.group h2, .team section.group .about .date, .about .team section.group .date, .team section.group .syllabus .date, .syllabus .team section.group .date, .team section.group .backlog .date, .backlog .team section.group .date, .team section.group h3 {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   color: var(--color-fg); }
-
-html.firefox .team section.group h1, html.firefox .team section.group h2, html.firefox .team section.group .about .date, .about html.firefox .team section.group .date, html.firefox .team section.group .syllabus .date, .syllabus html.firefox .team section.group .date, html.firefox .team section.group .backlog .date, .backlog html.firefox .team section.group .date, html.firefox .team section.group h3 {
-  padding-top: 10px; }
-
-.team section.group h1::after, .team section.group h2::after, .team section.group .about .date::after, .about .team section.group .date::after, .team section.group .syllabus .date::after, .syllabus .team section.group .date::after, .team section.group .backlog .date::after, .backlog .team section.group .date::after, .team section.group h3::after {
-  content: "";
-  display: block;
-  height: 0;
-  background: none !important; }
 
 .team .member {
   margin-top: var(--gap-2);
@@ -16664,22 +16351,9 @@ html.firefox .team section.group h1, html.firefox .team section.group h2, html.f
   grid-gap: var(--gap-2); }
 
 .team .member p {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .team .member p {
-  padding-top: 10px; }
-
-.team .member p::after {
-  content: "";
-  display: block;
-  height: 0;
-  background: none !important; }
+  padding: 10px; }
 
 .team .member div.emoji {
   width: var(--logo-size);
@@ -16710,28 +16384,15 @@ html.firefox .team .member p {
   margin-left: 5px; }
 
 .team .member .links {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .team .member .links {
-  padding-top: 10px; }
-
-.team .member .links::after {
-  content: "";
-  display: block;
-  height: 0;
-  background: none !important; }
+  padding: 10px; }
 
 .team .member .links a:not(:last-of-type) {
   margin-right: 3px;
   display: inline-block; }
 
-.zine {
+.redux blockquote {
   width: calc(var(--pdf) * var(--pdf-ratio));
   height: var(--pdf);
   overflow: hidden;
@@ -16779,7 +16440,7 @@ html.firefox .team .member .links {
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-.zine .slides {
+.redux blockquote ul {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
@@ -16788,7 +16449,7 @@ html.firefox .team .member .links {
   scroll-snap-points-x: repeat(calc(var(--pdf) * var(--pdf-ratio)));
   scroll-snap-type: mandatory; }
 
-.zine .slides > img {
+.redux blockquote ul > li {
   scroll-snap-align: start;
   flex-shrink: 0;
   height: var(--pdf);
@@ -16798,10 +16459,10 @@ html.firefox .team .member .links {
   position: relative;
   display: flex; }
 
-.zine .slides > img:not(:last-of-type) {
+.redux blockquote ul > li:not(:last-of-type) {
   border-right: solid 1px #ccc; }
 
-.zine img {
+.redux blockquote img {
   object-fit: cover;
   position: absolute;
   height: var(--pdf);
@@ -16854,22 +16515,9 @@ html.firefox .team .member .links {
   padding: 20px; }
 
 .session ul li {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox .session ul li {
-  padding-top: 10px; }
-
-.session ul li::after {
-  content: "";
-  display: block;
-  height: 20px;
-  background: none !important; }
+  padding: 10px; }
 
 .session ul li .sig {
   opacity: 1;
@@ -18468,22 +18116,9 @@ html.print-pdf .aria-status {
     color: inherit !important; } }
 
 html.slide h1, html.slide h2, html.slide .about .date, .about html.slide .date, html.slide .syllabus .date, .syllabus html.slide .date, html.slide .backlog .date, .backlog html.slide .date, html.slide h3, html.slide h4 {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  box-decoration-break: clone; }
-
-html.firefox html.slide h1, html.firefox html.slide h2, html.firefox html.slide .about .date, .about html.firefox html.slide .date, html.firefox html.slide .syllabus .date, .syllabus html.firefox html.slide .date, html.firefox html.slide .backlog .date, .backlog html.firefox html.slide .date, html.firefox html.slide h3, html.firefox html.slide h4 {
-  padding-top: 13px; }
-
-html.slide h1::after, html.slide h2::after, html.slide .about .date::after, .about html.slide .date::after, html.slide .syllabus .date::after, .syllabus html.slide .date::after, html.slide .backlog .date::after, .backlog html.slide .date::after, html.slide h3::after, html.slide h4::after {
-  content: "";
-  display: block;
-  height: 0px;
-  background: none !important; }
+  padding: 10px; }
 
 html.slide body {
   background-color: var(--color-bg);
@@ -18543,17 +18178,10 @@ html.slide section h1, html.slide section h2 tt, html.slide section .about .date
   text-transform: uppercase; }
 
 html.slide tt {
-  display: inline;
+  display: inline-block;
   background: #ff0;
-  box-shadow: 0 0 0 #ff0,0 0 0 #ff0;
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone;
+  padding: 10px;
   font-family: var(--font); }
-
-html.firefox html.slide tt {
-  padding-top: 10px; }
 
 html.slide tt + tt {
   margin-left: 10px; }
@@ -18603,22 +18231,9 @@ html.slide .reveal ol, html.slide .reveal ul {
   display: inline-block; }
 
 html.slide .reveal ol li, html.slide .reveal ul li {
-  display: inline;
+  display: inline-block;
   background: var(--color-bg);
-  box-shadow: 10px 0 0 var(--color-bg), -10px 0 0 var(--color-bg);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 7px;
-  box-decoration-break: clone; }
-
-html.firefox html.slide .reveal ol li, html.firefox html.slide .reveal ul li {
-  padding-top: 10px; }
-
-html.slide .reveal ol li::after, html.slide .reveal ul li::after {
-  content: "";
-  display: block;
-  height: 20px;
-  background: none !important; }
+  padding: 10px; }
 
 html.slide .reveal ol ol, html.slide .reveal ul ol {
   display: block; }
@@ -18875,13 +18490,9 @@ html.slide picture.mobile.more-both:before {
 
 html.slide .status {
   font-size: 1rem;
-  display: inline;
+  display: inline-block;
   background: rgba(0, 0, 0, 0.2);
-  box-shadow: 20px 0 0 rgba(0, 0, 0, 0.2), -20px 0 0 rgba(0, 0, 0, 0.2);
-  position: relative;
-  padding-bottom: 5px;
-  padding-top: 10px;
-  box-decoration-break: clone;
+  padding: 10px;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
@@ -18892,9 +18503,6 @@ html.slide .status {
   background-clip: padding-box;
   vertical-align: middle;
   text-transform: none; }
-
-html.firefox html.slide .status {
-  padding-top: 13px; }
 
 .collab a img, .collab a svg {
   -webkit-transition: all 300ms ease-out;
@@ -19565,29 +19173,15 @@ table.table code {
   outline: dashed 1px red; }
 
 a[data-toggle="popover"] {
-  display: inline;
+  display: inline-block;
   background: var(--color-accent-2);
-  box-shadow: 2px 0 0 var(--color-accent-2), -2px 0 0 var(--color-accent-2);
-  position: relative;
-  padding-bottom: 3px;
-  padding-top: 5px;
-  box-decoration-break: clone; }
-
-html.firefox a[data-toggle="popover"] {
-  padding-top: 8px; }
+  padding: 10px; }
 
 a[data-toggle="popover"]:hover {
   color: var(--color-bg) !important;
-  display: inline;
+  display: inline-block;
   background: var(--color-accent);
-  box-shadow: 2px 0 0 var(--color-accent), -2px 0 0 var(--color-accent);
-  position: relative;
-  padding-bottom: 3px;
-  padding-top: 5px;
-  box-decoration-break: clone; }
-
-html.firefox a[data-toggle="popover"]:hover {
-  padding-top: 8px; }
+  padding: 10px; }
 
 .popover {
   -webkit-animation-name: fadeIn;
