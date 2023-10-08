@@ -15052,12 +15052,12 @@ aside footer.footer nav {
 aside footer.footer a {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 aside footer.footer a:hover {
   display: inline-block;
   background: var(--color-accent-2);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-fg); }
 
 article.main footer.footer {
@@ -15101,13 +15101,13 @@ html.dark-mode footer.footer a.path:before, html.redux footer.footer a.path:befo
 p {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   line-height: 160%; }
 
 .list header.header h1 {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 .list header.header h2, .list header.header .about .date, .about .list header.header .date, .list header.header .syllabus .date, .syllabus .list header.header .date, .list header.header .backlog .date, .backlog .list header.header .date {
   text-transform: lowercase;
@@ -15498,7 +15498,7 @@ a:not(.btn):hover {
 .paths {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   font-size: 35px;
   font-weight: bold; }
 
@@ -15528,7 +15528,7 @@ code {
 html:not(.slide) h1, html:not(.slide) h2, html:not(.slide) .about .date, .about html:not(.slide) .date, html:not(.slide) .syllabus .date, .syllabus html:not(.slide) .date, html:not(.slide) .backlog .date, .backlog html:not(.slide) .date, html:not(.slide) h3, html:not(.slide) h4 {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-bg);
   text-transform: uppercase;
   font-weight: bold; }
@@ -15536,7 +15536,7 @@ html:not(.slide) h1, html:not(.slide) h2, html:not(.slide) .about .date, .about 
 body.home header.header h1 {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 h1 {
   font-size: 45px; }
@@ -15554,7 +15554,7 @@ header.header {
 header.header h1, header.header h2, header.header .about .date, .about header.header .date, header.header .syllabus .date, .syllabus header.header .date, header.header .backlog .date, .backlog header.header .date {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-bg);
   text-transform: uppercase; }
 
@@ -15568,7 +15568,7 @@ header.header .slogan {
 header.header .slogan p {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   line-height: 150%;
   color: var(--color-bg);
   font-weight: normal;
@@ -15720,7 +15720,7 @@ section.status {
 section.status h1, section.status h2, section.status .about .date, .about section.status .date, section.status .syllabus .date, .syllabus section.status .date, section.status .backlog .date, .backlog section.status .date, section.status h3, section.status h4 {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-fg); }
 
 section.status:last-of-type {
@@ -15893,46 +15893,6 @@ section.status:last-of-type {
   -o-backface-visibility: hidden;
   backface-visibility: hidden; }
 
-.study article {
-  counter-reset: section; }
-
-.study:not(.current) .syllabus .calendar, .study:not(.current) .syllabus .room {
-  display: none; }
-
-.study ul {
-  padding: 0; }
-
-.study li {
-  display: inline-block;
-  background: var(--color-bg);
-  padding: 10px; }
-
-.study li:first-of-type {
-  font-size: 30px;
-  text-transform: uppercase;
-  font-weight: bold; }
-
-.study:before {
-  displaY: inline-block;
-  width: var(--logo-size);
-  height: var(--logo-size);
-  background-color: rgba(0, 0, 0, 0.3);
-  margin-top: -5px;
-  counter-increment: section;
-  content: counter(section);
-  color: var(--color-fg);
-  padding-top: 10px;
-  font-size: 300%;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%;
-  -moz-background-clip: padding;
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
-  text-align: center; }
-
 hr {
   background-color: black;
   height: 3px;
@@ -15953,9 +15913,12 @@ hr {
   color: var(--color-dark); }
 
 span.badge {
-  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  top: -5px;
+  left: 20px;
+  background-color: var(--color-accent);
   padding: 5px 10px 2px 10px;
-  color: var(--color-accent);
+  color: white;
   text-transform: uppercase;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
@@ -15973,7 +15936,6 @@ span.badge {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: var(--gap-2);
   border-top: solid 3px var(--color-fg);
-  margin-top: var(--gap-8);
   padding: var(--gap-2) 0; }
 
 .instructions p {
@@ -16018,7 +15980,7 @@ span.badge {
 .sig span {
   display: inline-block;
   background: var(--color-fg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-bg);
   text-transform: uppercase;
   font-weight: bold;
@@ -16163,7 +16125,7 @@ section.category .category-description {
 section.category .category-description p {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 section.category .category-menu {
   -webkit-transition: all 300ms ease-out;
@@ -16189,9 +16151,6 @@ section.category .category-menu .category-post:hover {
 section.category .category-menu a.btn {
   white-space: nowrap;
   margin: auto var(--gap-2); }
-
-section.category:hover .category-menu, html.touch section.category .category-menu {
-  height: calc(var(--nav) + 40px); }
 
 section.category:hover .category-menu .category-post, html.touch section.category .category-menu .category-post {
   -webkit-animation-name: fadeInLeft;
@@ -16275,9 +16234,9 @@ html.touch section.category .category-menu {
   transition: all 300ms ease-out; }
 
 .category-menu .category-post {
-  padding: var(--gap-2);
+  padding: var(--gap);
+  padding-bottom: 0;
   displaY: block;
-  height: var(--nav);
   text-decoration: none;
   background-size: cover !important;
   background-position: center center !important;
@@ -16306,6 +16265,9 @@ html.touch section.category .category-menu {
 .category-menu .category-post header {
   width: calc(var(--nav) * 2); }
 
+.category-menu .category-post:hover span.badge {
+  background-color: black; }
+
 .category-menu .category-post p {
   -webkit-transition: all 300ms ease-out;
   -moz-transition: all 300ms ease-out;
@@ -16321,15 +16283,21 @@ html.touch section.category .category-menu {
 .category-menu .category-post:hover p {
   display: inline-block;
   background: var(--color-accent);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-bg); }
 
 .category-menu .category-post .title {
   font-size: 150%;
-  line-height: 50%;
+  line-height: 100%;
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
+
+.category-menu .category-post .description {
+  line-height: 120%;
+  display: inline-block;
+  background: var(--color-bg);
+  padding: var(--gap-half) var(--gap); }
 
 .team section.group {
   border-top: solid 3px var(--color-fg);
@@ -16341,7 +16309,7 @@ html.touch section.category .category-menu {
 .team section.group h1, .team section.group h2, .team section.group .about .date, .about .team section.group .date, .team section.group .syllabus .date, .syllabus .team section.group .date, .team section.group .backlog .date, .backlog .team section.group .date, .team section.group h3 {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   color: var(--color-fg); }
 
 .team .member {
@@ -16353,7 +16321,7 @@ html.touch section.category .category-menu {
 .team .member p {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 .team .member div.emoji {
   width: var(--logo-size);
@@ -16386,7 +16354,7 @@ html.touch section.category .category-menu {
 .team .member .links {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 .team .member .links a:not(:last-of-type) {
   margin-right: 3px;
@@ -16517,7 +16485,7 @@ html.touch section.category .category-menu {
 .session ul li {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 .session ul li .sig {
   opacity: 1;
@@ -18118,7 +18086,7 @@ html.print-pdf .aria-status {
 html.slide h1, html.slide h2, html.slide .about .date, .about html.slide .date, html.slide .syllabus .date, .syllabus html.slide .date, html.slide .backlog .date, .backlog html.slide .date, html.slide h3, html.slide h4 {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 html.slide body {
   background-color: var(--color-bg);
@@ -18180,7 +18148,7 @@ html.slide section h1, html.slide section h2 tt, html.slide section .about .date
 html.slide tt {
   display: inline-block;
   background: #ff0;
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   font-family: var(--font); }
 
 html.slide tt + tt {
@@ -18233,7 +18201,7 @@ html.slide .reveal ol, html.slide .reveal ul {
 html.slide .reveal ol li, html.slide .reveal ul li {
   display: inline-block;
   background: var(--color-bg);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 html.slide .reveal ol ol, html.slide .reveal ul ol {
   display: block; }
@@ -18492,7 +18460,7 @@ html.slide .status {
   font-size: 1rem;
   display: inline-block;
   background: rgba(0, 0, 0, 0.2);
-  padding: 10px;
+  padding: var(--gap-half) var(--gap);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
@@ -19175,13 +19143,13 @@ table.table code {
 a[data-toggle="popover"] {
   display: inline-block;
   background: var(--color-accent-2);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 a[data-toggle="popover"]:hover {
   color: var(--color-bg) !important;
   display: inline-block;
   background: var(--color-accent);
-  padding: 10px; }
+  padding: var(--gap-half) var(--gap); }
 
 .popover {
   -webkit-animation-name: fadeIn;

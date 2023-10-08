@@ -57,7 +57,7 @@ section.category {
 	}
 	
 	&:hover .category-menu, html.touch & .category-menu {
-		height: calc(var(--nav) + 40px);
+
 		.category-post {
 			@include fadeInLeft;
 
@@ -73,15 +73,18 @@ section.category {
 .category-menu {
 	@include transition;
 	.category-post {
-		padding: var(--gap-2);
+		padding: var(--gap);
+		padding-bottom: 0;
 		displaY: block;
-		height: var(--nav);
 		text-decoration: none;
 		@include assorted-bgs;
 		background-size: cover !important;
 		background-position: center center !important;
 		header {
 			width: calc(var(--nav) * 2);
+		}
+		&:hover span.badge {
+			background-color: black;
 		}
 		p {
 			@include transition;
@@ -101,8 +104,13 @@ section.category {
 
 		.title {
 			font-size: 150%;
-			line-height: 50%;
+			line-height: 100%;
 			@include highlight;
 		}
+		.description {
+			line-height: 120%;
+			@include highlight;
+		}
+
 	}
 }

@@ -52,8 +52,7 @@
   @mixin highlight($bg: var(--color-bg)) {
     display: inline-block;
     background: $bg;
-    padding: 10px;
-  }
+    padding: var(--gap-half) var(--gap);  }
 
   @mixin assorted-bgs {
     &:nth-of-type(1) {
