@@ -16095,6 +16095,21 @@ p.pending:before {
   margin-right: 5px;
   background-color: #eee; }
 
+html.todo ul {
+  list-style: none;
+  padding: var(--gap);
+  padding-bottom: 0;
+  background-color: #ffffff;
+  border: solid 1px #eee; }
+
+html.todo ul li {
+  padding: var(--gap-half) 0; }
+
+html.todo input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-right: var(--gap-half); }
+
 section.category {
   margin-bottom: var(--gap-2); }
 

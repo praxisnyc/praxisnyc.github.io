@@ -125,25 +125,25 @@ article.main, .description {
 
 .home {
 	.description {
-			padding-top:  var(--gap-2);
-	&.v5 {
-	border-top: solid 3px var(--color-fg);
-}
-&.study {
-	padding-bottom:  var(--gap-2);
-	border-bottom: solid 3px var(--color-fg);
-.category-description, .btn {
-	margin-top:  var(--gap);
+		padding-top:  var(--gap-2);
+		&.v5 {
+			border-top: solid 3px var(--color-fg);
+		}
+		&.study {
+			padding-bottom:  var(--gap-2);
+			border-bottom: solid 3px var(--color-fg);
+			.category-description, .btn {
+				margin-top:  var(--gap);
 
-}
-}
-}
+			}
+		}
+	}
 
-header.header {
-	display: grid;
-grid-template-columns: 1fr 2fr;
-grid-gap: 15px;
-}
+	header.header {
+		display: grid;
+		grid-template-columns: 1fr 2fr;
+		grid-gap: 15px;
+	}
 }
 
 footer.footer {
@@ -463,11 +463,11 @@ section.status {
 // 				font-size: 300%;
 
 // 				@include radius(50%); 
-			
+
 // 			text-align: center; 
 // 		}
-		
-	
+
+
 
 // }
 
@@ -492,9 +492,9 @@ hr {
 }
 
 span.badge {
-position: absolute;
-top: -5px;
-left: 20px;
+	position: absolute;
+	top: -5px;
+	left: 20px;
 	background-color: var(--color-accent);
 	padding: 5px 10px 2px 10px; 
 	color: white;
@@ -584,61 +584,61 @@ form.tinyletter {
 		margin-left: -10px;
 		
 		@include transition;
-			width: 520px;
-			@media screen and (min-width: $bp) {
+		width: 520px;
+		@media screen and (min-width: $bp) {
 			padding: 10px;
 
-		padding-bottom: 5px;
-		background-color: white;
-		@include shadow(box, 3px 3px 5px rgba(0, 0, 0, 0.1));
-&:hover {
-	@include shadow(box, 3px 3px 5px rgba(0, 0, 0, 0.2));
-}
+			padding-bottom: 5px;
+			background-color: white;
+			@include shadow(box, 3px 3px 5px rgba(0, 0, 0, 0.1));
+			&:hover {
+				@include shadow(box, 3px 3px 5px rgba(0, 0, 0, 0.2));
+			}
 			
 		}
-			@media screen and (max-width: $bp) {
+		@media screen and (max-width: $bp) {
 			
 			width: 100%;
 
 		}
 		
-.original {
-	text-decoration: none;
-	background-color: #ccc;
-	padding: 10px 15px;
-	@include radius(20px);
-	position: absolute;
-	font-size: 70%;
-	font-weight: bold;
-	&:before {
-		content: "View source";
-		
-	}
-@media screen and (max-width: $bp) {
-	border: solid 1px black;
-	@include shadow(box, 3px 3px 0px rgba(0, 0, 0, 0.1));
-&:hover {
-	border: solid 1px purple;
-	@include shadow(box, 2px 2px 0px rgba(0, 0, 0, 0.2));
-}
+		.original {
+			text-decoration: none;
+			background-color: #ccc;
+			padding: 10px 15px;
+			@include radius(20px);
+			position: absolute;
+			font-size: 70%;
+			font-weight: bold;
 			&:before {
-				content: "Click to view source on figma";
+				content: "View source";
+
 			}
+			@media screen and (max-width: $bp) {
+				border: solid 1px black;
+				@include shadow(box, 3px 3px 0px rgba(0, 0, 0, 0.1));
+				&:hover {
+					border: solid 1px purple;
+					@include shadow(box, 2px 2px 0px rgba(0, 0, 0, 0.2));
+				}
+				&:before {
+					content: "Click to view source on figma";
+				}
+			}
+
 		}
-	
-}
 
 		.scroll {
 			overflow-y: hidden;
 			flex-wrap: no-wrap;
 			overflow-x: auto;
-		
-			padding-bottom: 15px;
-@media screen and (max-width: $bp) {
-			
-			img {display: none;}
 
-		}
+			padding-bottom: 15px;
+			@media screen and (max-width: $bp) {
+
+				img {display: none;}
+
+			}
 		}
 	}
 
@@ -650,3 +650,26 @@ form.tinyletter {
 		margin-right: 5px;
 		background-color: #eee;
 	}
+
+html.todo {
+	ul {
+		@include reset(list);
+		padding: var(--gap);
+		padding-bottom: 0;
+		background-color: #ffffff;
+		border: solid 1px #eee;
+		li {
+			padding: var(--gap-half) 0;
+
+		}
+	}
+		input[type="checkbox"] {
+		width: 20px;
+		height: 20px;
+		margin-right: var(--gap-half);
+	}
+}
+
+
+
+	
