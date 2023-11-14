@@ -1,22 +1,23 @@
 ---
 title: TODO
-description: Expanding SecureScuttlebutt platform
-cover: 6564852d50505845e2b6be.webp
+description: What's there to do
+cover: internal.webp
 status: published
-category: commons
-date: 2023-03-28
+category: internal
+date: 2023-11-14
 ---
 ## Tool permissions
 
 - [x] set passwords on signal group about
 - [x] move TODO to `internal`
 - [x] update [team](https://praxis.nyc/team/)
+- [ ] write [editing](https://praxis.nyc/internal/editing) instructions
 
 ## Design
 
 - [ ] review layout on smaller screens
-- [ ] restyle study events
-- [ ] soundboard category
+- [ ] restyle `study` events
+- [ ] `soundboard` category
 - [ ] slide, markdown only
 - [ ] instructions on how to make a slide
 
