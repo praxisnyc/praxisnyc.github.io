@@ -15,28 +15,11 @@
 			</header>
 			<div class="members">
 				<section class="group">
-					{{ range .Site.Data.team.core }}
+					{{ range .Site.Data.team }}
 					{{ partial "team.html" . }}
 					{{end}}
 				</section>
-				<!-- <section class="group">
-					<p class="paths">study</p>
-					{{ range .Site.Data.team.study }}
-					{{ partial "team.html" . }}
-					{{end}}
-				</section> -->
-				<!-- <section class="group">
-					<p class="paths">commons</p>
-					{{ range .Site.Data.team.commons }}
-					{{ partial "team.html" . }}
-					{{end}}
-				</section> -->
-				<!-- <section class="group">
-					<p class="paths">play</p>
-					{{ range .Site.Data.team.play }}
-					{{ partial "team.html" . }}
-					{{end}}
-				</section> -->
+		
 			</div>
 			{{ partial "footer.html" . }}
 		</article>
