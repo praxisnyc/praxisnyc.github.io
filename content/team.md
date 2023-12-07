@@ -1,7 +1,7 @@
 ---
 title: team
 status: public
-description: lorem ipsum
+description: About us
 date: 2020-09-10
 layout: team
 ---

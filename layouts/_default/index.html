@@ -26,8 +26,8 @@
 			
 				<div class="category-menu">
 					<section class="status">
-						<h3>Articles</h3>
-						{{ range where .Site.Pages "Params.category" "commons" }}
+						<h3>Works</h3>
+						{{ range where .Site.Pages "Params.category" "works" }}
 						{{ if not (in .Params.status "draft") }}
 						{{ partial "category-post.html" . }}
 						{{ end }}
@@ -39,6 +39,29 @@
 						{{ end }}
 			
 					</section>
+					<section class="status">
+						<h3>Soundboards</h3>
+						{{ range where .Site.Pages "Params.category" "soundboard" }}
+						{{ if not (in .Params.status "draft") }}
+						{{ partial "category-post.html" . }}
+						{{else}}
+						(Soon)
+						{{ end }}
+						{{ end }}
+			
+					</section>
+						<section class="status">
+						<h3>Articles</h3>
+						{{ range where .Site.Pages "Params.category" "article" }}
+						{{ if not (in .Params.status "draft") }}
+						{{ partial "category-post.html" . }}
+						{{else}}
+						(Soon)
+						{{ end }}
+						{{ end }}
+			
+					</section>
+					
 					<div class="description study">
 						<p class="paths">study</p>
 		
