@@ -1,10 +1,10 @@
 ---
 title: TODO
-description: What's there to do
+description: What Do We Need To Do?
 cover: internal.webp
 status: published
 category: internal
-date: 2023-11-14
+date: 2023-12-07
 ---
 ## Tool permissions
 
@@ -20,6 +20,7 @@ date: 2023-11-14
 - [ ] `soundboard` category
 - [ ] slide, markdown only
 - [ ] instructions on how to make a slide
+- [ ] create article page (stop using internal template)
 
 ## Praxis concepts
 
