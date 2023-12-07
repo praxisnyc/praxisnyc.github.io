@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internals on Praxis</title>
+    <link>https://praxis.nyc/internal/</link>
+    <description>Recent content in Internals on Praxis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/internal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TODO</title>
+      <link>https://praxis.nyc/internal/todo/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://praxis.nyc/internal/todo/</guid>
+      <description>Tool permissions  set passwords on signal group about move TODO to internal update team write editing instructions  Design  review layout on smaller screens restyle study events soundboard category slide, markdown only instructions on how to make a slide create article page (stop using internal template)  Praxis concepts  move the 4 concepts form lyndsey notes, here  study group soundboard show-and-tell &amp;ldquo;salons&amp;rdquo;   hackmd airtable gitlab move each concept as table, form (doesn&amp;rsquo;t need to be all of them.</description>
+    </item>
+    
+    <item>
+      <title>Editing this website</title>
+      <link>https://praxis.nyc/internal/editing/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://praxis.nyc/internal/editing/</guid>
+      <description>Praxis uses Hugo framework and is hosted on Gitlab.
+Pages are markdown + frontmatter on Any page under content folder will be visible on the website, using format: praxis.nyc/(folder name)/(filename minus .md)
+To edit pages you&amp;rsquo;ll need to:
+ Learn markdown basics Create a gitlab account Inform team to be added to repo&amp;rsquo;s project members Visit Gitlab IDE to edit Ask around for content templates, so frontmatter is correct Commit all your changes (you&amp;rsquo;ll need a message)  Troubleshooting:</description>
+    </item>
+    
+  </channel>
+</rss>
