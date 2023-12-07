@@ -4,5 +4,5 @@ https://praxis.nyc
 
 ## TODO
 
-https://praxis.nyc/internal/todo
+https://praxis.nyc/todo
 
