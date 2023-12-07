@@ -6,6 +6,5 @@ location = "brooklyn, nyc"
 
 
 links = [
-		{title = "homepage", URL = "https://camilleacey.com/"},
 		{title = "The Wind Down: A Conscious Clousre Consultancy", URL = "https://wind-down.org/"}
 ]
