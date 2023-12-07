@@ -1,10 +1,11 @@
 alias = "camille"
-name = "Camille"
+name = "Camille E.S.A. Acey"
 emoji = "🗿"
 email = "connect@camilleacey.com"
-location = "sometimes nyc/lenape land and sometimes slovenia/wheelmantown"
+location = "brooklyn, nyc"
 
 
 links = [
-		{title = "colet", URL = "https://colet.space/"}
+		{title = "homepage", URL = "https://camilleacey.com/"}
+		{title = "The Wind Down: A Conscious Clousre Consultancy", URL = "https://wind-down.org/"}
 ]
