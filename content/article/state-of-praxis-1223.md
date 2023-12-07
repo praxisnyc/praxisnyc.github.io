@@ -1,3 +1,10 @@
+---
+title: The State of Praxis 2023
+description: What we have been working on this year and what is coming up
+status: draft
+category: article
+date: 2023-12-07
+---
 Praxis is a fuzzy cloud, a glory hole, a portal to the stars, an epic twirl in the middle of the dancefloor. 
 
 Praxis has taken many forms over the past 6 years -- book club, design collective, queens of the scene, think tank, and more -- and as the year closes, we wanted to use this space to muse a bit about what we've been up to over the past year and where we are trying to go in the next. 
