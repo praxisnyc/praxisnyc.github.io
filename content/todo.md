@@ -26,6 +26,7 @@ A lsit of requests per project that needs our attention
 
 - [ ] write code of conduct
 - [ ] write about
+- [ ] block Nazis and TERFs ([Guidance on defederation is here](https://fedi.tips/how-to-defederate-fediblock-a-server-on-mastodon/))
 
 ## Donation
 
