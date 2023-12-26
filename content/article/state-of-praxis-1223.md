@@ -1,7 +1,7 @@
 ---
 title: The State of Praxis 2023
 description: What we have been working on this year and what is coming up
-status: draft
+status: published
 category: article
 date: 2023-12-07
 ---
