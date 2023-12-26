@@ -11,7 +11,8 @@ date: 2023-12-26
 fill in the form for any subject you want us to work on
 
 - [Study group topic](https://airtable.com/appJIh6IHX9HdvXll/pagnvfP66tlmU5Ect/form)
-- New media for study topic](https://airtable.com/appJIh6IHX9HdvXll/pagyVKXHafbjWbhqO/form)
+- [New media for study topic](https://airtable.com/appJIh6IHX9HdvXll/pagyVKXHafbjWbhqO/form)
+- [New soundboard](https://airtable.com/appJIh6IHX9HdvXll/pagvoR53tY1LTtMwA/form)
 
 ## Other places
 
