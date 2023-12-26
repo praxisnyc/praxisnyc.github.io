@@ -25,7 +25,9 @@ A lsit of requests per project that needs our attention
 ## Mastodon instance
 
 - [ ] write code of conduct
-- [ ] write about page
+- [ ] write and approve [server rules](https://hackmd.io/@praxis/BkLLep_DT)
+- [ ] publish server rules
+- [ ] announce server rules
 - [ ] define what praxis say (article?)
 - [x] connect with [thebad.space](https://tweaking.thebad.space/about)
 - [ ] setup thebad.space
