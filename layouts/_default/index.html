@@ -45,10 +45,9 @@
 					{{ range where .Site.Pages "Params.category" "soundboard" }}
 					{{ if not (in .Params.status "draft") }}
 					{{ partial "category-post.html" . }}
-					{{else}}
-					(Soon)
 					{{ end }}
 					{{ end }}
+
 					
 				</section>
 				<section class="status">
