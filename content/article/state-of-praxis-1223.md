@@ -17,7 +17,7 @@ We formally rolled out our Soundboard practice in the summer and we look forward
 
 # Exploring The Fediverse 
 
-Most of us have been experimenting with Mastodon for the past few years while also continuing to educate ourselves about the ills of corporate social media. The sudden andrapid devolution of Twitter this year gave us the push we needed to start working on creating [our own Mastodon server](https://social.praxis.nyc) so that we could eventually extend a landing pad to our friends and like-minded folks. With the help of Hugo from [Mastohost](https://mastohost.com), we were up and running fairly quickly. 
+Most of us have been experimenting with Mastodon for the past few years while also continuing to educate ourselves about the ills of corporate social media. The sudden and rapid devolution of Twitter this year gave us the push we needed to start working on creating [our own Mastodon server](https://social.praxis.nyc) so that we could eventually extend a landing pad to our friends and like-minded folks. With the help of Hugo from [Mastohost](https://mastohost.com), we were up and running fairly quickly. 
 
 While a few of us are on the Praxis Mastodon already, we want to spruce the place up before we "open the floodgates". Over the next few months, we hope to:
 * create and publish a code of conduct;  
