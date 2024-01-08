@@ -13,6 +13,7 @@ fill in the form for any subject you want us to work on
 - [Study group topic](https://airtable.com/appJIh6IHX9HdvXll/pagnvfP66tlmU5Ect/form)
 - [New media for study topic](https://airtable.com/appJIh6IHX9HdvXll/pagyVKXHafbjWbhqO/form)
 - [New soundboard](https://airtable.com/appJIh6IHX9HdvXll/pagvoR53tY1LTtMwA/form)
+- [Soundboard HackMD Template](https://hackmd.io/@praxis/soundboard-template) - You can also just create a "New notes from template" in [HackMD](https://hackmd.io/@praxis)
 
 ## Other places
 
