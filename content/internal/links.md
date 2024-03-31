@@ -20,7 +20,7 @@ fill in the correct form for any subject you want us to work on
 - [Praxis Activity Log](https://hackmd.io/@praxis/TODO) (ask for credentials to edit)
 
 ## Tools
-#### ask for credentials
+#### ask someone in the group for credentials
 
 - [HackMD](https://hackmd.io/?nav=overview)
 - [Airtable](https://www.airtable.com/)
