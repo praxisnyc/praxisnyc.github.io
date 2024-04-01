@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="{{ .File.BaseFileName }} {{ if .Params.style  }}{{ .Params.style }}{{ end }} {{ if .Params.category  }}{{ .Params.category }}{{ end }} {{ if .Params.status  }}{{ .Params.status }}{{ end }}">
+{{ partial "html.html" . }}
 {{ partial "head.html" . }}
 <body>
 	{{ partial "cover.html" . }}
