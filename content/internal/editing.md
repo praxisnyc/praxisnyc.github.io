@@ -6,7 +6,7 @@ status: published
 category: internal
 date: 2023-11-14
 ---
-[Praxis](https://praxis.nyc/) uses [Hugo](https://gohugo.io/) framework and is hosted on [Gitlab](https://gitlab.com/praxis.nyc/praxis.nyc.gitlab.io/).
+[Praxis](https://praxis.nyc/) uses [Hugo](https://gohugo.io/) framework and is hosted on [Github pages](https://github.com/praxisnyc/praxis.github.io/).
 
 Pages are [markdown](https://www.markdownguide.org/basic-syntax/) + frontmatter on Any page under `content` folder will be visible on the website, using format: `praxis.nyc/(folder name)/(filename minus .md)`
 

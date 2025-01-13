@@ -1,7 +1,8 @@
-baseURL = "https://praxis.nyc/"
+baseURL = "https://praxis.github.io/"
 languageCode = "en-us"
 title = "Praxis"
 description = "Decolonize your attention"
 logo = "logo-big.svg"
 category = ["study", "commons", "play"]
 include = [".well-known"]
+publishDir = "docs"
