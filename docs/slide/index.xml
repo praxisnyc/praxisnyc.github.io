@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides on Praxis</title>
-    <link>https://praxis.github.io/slide/</link>
+    <link>https://praxisnyc.github.io/slide/</link>
     <description>Recent content in Slides on Praxis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.github.io/slide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://praxisnyc.github.io/slide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cognition</title>
-      <link>https://praxis.github.io/slide/cognition/</link>
+      <link>https://praxisnyc.github.io/slide/cognition/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://praxis.github.io/slide/cognition/</guid>
+      <guid>https://praxisnyc.github.io/slide/cognition/</guid>
       <description>cognition</description>
     </item>
     
     <item>
       <title>wish</title>
-      <link>https://praxis.github.io/slide/wish/</link>
+      <link>https://praxisnyc.github.io/slide/wish/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://praxis.github.io/slide/wish/</guid>
+      <guid>https://praxisnyc.github.io/slide/wish/</guid>
       <description>wish</description>
     </item>
     
