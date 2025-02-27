@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Praxis</title>
-    <link>https://praxisnyc.github.io/works/</link>
+    <link>https://praxis.nyc/works/</link>
     <description>Recent content in Works on Praxis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://praxisnyc.github.io/works/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cognition</title>
-      <link>https://praxisnyc.github.io/works/cognition/</link>
+      <link>https://praxis.nyc/works/cognition/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://praxisnyc.github.io/works/cognition/</guid>
+      <guid>https://praxis.nyc/works/cognition/</guid>
       <description>cognition</description>
     </item>
     
     <item>
       <title>ssb-groups</title>
-      <link>https://praxisnyc.github.io/works/ssb-groups/</link>
+      <link>https://praxis.nyc/works/ssb-groups/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://praxisnyc.github.io/works/ssb-groups/</guid>
+      <guid>https://praxis.nyc/works/ssb-groups/</guid>
       <description>ssb-groups</description>
     </item>
     
     <item>
       <title>wish</title>
-      <link>https://praxisnyc.github.io/works/wish/</link>
+      <link>https://praxis.nyc/works/wish/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://praxisnyc.github.io/works/wish/</guid>
+      <guid>https://praxis.nyc/works/wish/</guid>
       <description>wish</description>
     </item>
     
