@@ -1,0 +1,9 @@
+alias = "lane"
+name = "Lane"
+surname = "Biocini"
+emoji = "🤖"
+location = "New York"
+
+links = [
+	{title = "mastodon", URL = "https://social.praxis.nyc/@lne"}
+]

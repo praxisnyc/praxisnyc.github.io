@@ -14,7 +14,7 @@
 		<article class="main">
 			<header class="header">
 				<h1>{{ .Title }}</h1>
-				<h2>{{ .Description }}</h2>
+				{{if .Description}}<h2>{{ .Description }}</h2>{{ end }}
 			</header>
 			{{ if in .Params.Category "study" }}
 			{{ if not (in .Params.Badge "zine") }}
