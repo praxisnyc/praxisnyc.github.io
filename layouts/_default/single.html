@@ -23,6 +23,9 @@
 			{{ end }}
 			{{ .Content }}
 			{{ partial "footer.html" . }}
+			{{ if in .Params.Contact "true" }}
+			{{ partial "contact-info.html" . }}
+			{{ end }}
 		</article>
 	</div>
 	{{ partial "scripts.html" . }} 
