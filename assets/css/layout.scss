@@ -95,6 +95,10 @@ p {
 
 li {
     background-color: var(--color-bg);
+    border: solid 10px white;
+    &:not(:first-of-type) {
+        margin-top: 5px;
+    }
 }
 
 .list {
