@@ -6,7 +6,7 @@ contact: true
 date: 2025-26-02
 ---
 
-### A framework for collaboration that reduxes X cost via a handshake protocol that determines what agents can do and ways that we can work 
+### A framework for collaboration that reduces transaction costs via a handshake protocol that determines what agents can do together and ways to work
 
 ---
 
