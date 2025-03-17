@@ -1,6 +1,7 @@
 ---
 title: Nimble-Ready
 status: published
+description: LLM and degrowth
 cover: HJ0wpyOu1x.jpg
 category: initiative
 contact: true
