@@ -652,3 +652,12 @@ html.todo {
         margin-right: var(--gap-half);
     }
 }
+table {
+    width: 100%;
+}
+
+table td, table th {
+background-color: white;
+padding: var(--gap);
+border-bottom: solid 1px #ccc;
+}

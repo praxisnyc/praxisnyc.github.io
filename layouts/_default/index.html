@@ -23,8 +23,19 @@
 			<div>
 				<p>Praxis is a not-for-profit design studio primarily focused on delivering tools for the commons, mainly through open-source technologies.</p>
 			</div>
+						
 
 			<div class="category-menu">
+				<section>
+				<p class="paths">initiatives</p>
+
+					{{ range where .Site.Pages "Params.category" "initiative" }}
+					{{ if not (in .Params.status "draft") }}
+					{{ partial "category-post.html" . }}
+					{{ end }}
+					{{ end }}
+
+				</section>
 				<section>
 				<p class="paths">slides</p>
 

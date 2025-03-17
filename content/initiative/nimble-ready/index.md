@@ -2,6 +2,7 @@
 title: Nimble-Ready
 status: published
 cover: HJ0wpyOu1x.jpg
+category: initiative
 contact: true
 date: 2025-26-02
 ---

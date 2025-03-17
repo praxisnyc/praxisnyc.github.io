@@ -29,6 +29,12 @@
     <loc>https://praxis.nyc/collaborator/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://praxis.nyc/cyborg.support/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/nimble-ready/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://praxis.nyc/internal/soundboard/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -124,8 +130,12 @@
   </url><url>
     <loc>https://praxis.nyc/categories/</loc>
   </url><url>
-    <loc>https://praxis.nyc/nimble-ready/</loc>
+    <loc>https://praxis.nyc/initiative/</loc>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/nimble-ready/</loc>
   </url><url>
     <loc>https://praxis.nyc/tags/</loc>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/cyborg.support/</loc>
   </url>
 </urlset>
