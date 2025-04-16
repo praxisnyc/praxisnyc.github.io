@@ -14,4 +14,4 @@ date: 2025-17-03
 - [ ] dead internet theory, digital enclave
 - [ ] epistemology issue, a different way to interact with books
 - [ ] seed, not net
-- [ ] recipe
+- [ ] recipe and requirements
