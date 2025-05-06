@@ -5,7 +5,17 @@
     <link>https://praxis.nyc/initiative/</link>
     <description>Recent content in Initiatives on Praxis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://praxis.nyc/initiative/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/initiative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nimbus</title>
+      <link>https://praxis.nyc/initiative/nimbus/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://praxis.nyc/initiative/nimbus/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Mastodon</title>
       <link>https://praxis.nyc/initiative/mastodon/</link>
@@ -23,15 +33,6 @@
       <guid>https://praxis.nyc/initiative/nimble-ready/</guid>
       <description>A framework for collaboration that reduces transaction costs via a handshake protocol that determines what agents can do together and ways to work  Unbundling of Companies // Degrowth // Worker-centric model  One of the main reasons organizations grow monolithic is to cut transaction costs. LLMs allows us to slash these cost, allowing them to stay lean, specialized, and agile—while still collaborating dynamically.
 This is a new kind of ecosystem, where institutions don’t just interact, they sense each other—like constellations in space—through handshake protocols and smart contracts.</description>
-    </item>
-    
-    <item>
-      <title>Nimbus</title>
-      <link>https://praxis.nyc/initiative/nimbus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praxis.nyc/initiative/nimbus/</guid>
-      <description> what is AI: interpretation machine (use large language models to achieve relational knowledge) explain RAG: second wave of AIs (granular control of sources of information) sovereign AI vs corporate AI  doesn&amp;rsquo;t spy on you local first, open source   dead internet theory, digital enclave epistemology issue, a different way to interact with books seed, not net recipe and requirements  </description>
     </item>
     
     <item>

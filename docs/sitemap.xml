@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://praxis.nyc/initiative/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/nimbus/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://praxis.nyc/play/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://praxis.nyc/soundboard/herbalism/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://praxis.nyc/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://praxis.nyc/soundboard/</loc>
@@ -130,13 +136,9 @@
   </url><url>
     <loc>https://praxis.nyc/categories/</loc>
   </url><url>
-    <loc>https://praxis.nyc/initiative/</loc>
-  </url><url>
     <loc>https://praxis.nyc/initiative/mastodon/</loc>
   </url><url>
     <loc>https://praxis.nyc/initiative/nimble-ready/</loc>
-  </url><url>
-    <loc>https://praxis.nyc/initiative/nimbus/</loc>
   </url><url>
     <loc>https://praxis.nyc/initiative/pixelfed/</loc>
   </url><url>
