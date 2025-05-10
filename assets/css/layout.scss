@@ -6,7 +6,7 @@
     $style: normal,
     $stretch: normal,
     $transform: normal
-);
+    );
 
 @include font-face(
     Space Grotesk,
@@ -16,7 +16,7 @@
     $style: normal,
     $stretch: normal,
     $transform: normal
-);
+    );
 
 @include font-face(
     Hasklig,
@@ -26,7 +26,7 @@
     $style: normal,
     $stretch: normal,
     $transform: normal
-);
+    );
 
 footer.footer {
     body.home & nav {
@@ -657,15 +657,41 @@ table {
 }
 
 table td {
-background-color: white;
+    background-color: white;
 }
 
 .nimbus {
     td {
         padding: var(--gap-half) var(--gap) 0 var(--gap) !important;
     }
- tbody td {
-font-size: 70%;
-}
+    tbody td {
+        font-size: 70%;
+    }
+    a.sig {
+        --QR: var(--gap-8);
+        @include opacity(100);
+        width: var(--QR);
+        height: var(--QR);
+        background-image: url(/nimbus/QR.svg);
+        background-repeat: no-repeat;
+        background-size:  var(--QR) var(--QR);
+        margin-bottom: var(--gap);
+        span {
+            display: none;
+        }
+        svg {
+            position: absolute;
+            left: var(--QR);
+            bottom: 5px;
+            @include transition;
+        }
+        @media screen and (max-width: $bp) {
+            --QR: var(--gap-4);
+            svg {
+                left: calc(var(--QR) + 5px);
+                bottom: 2px;
+            }
+        }
+    }
 
 }
