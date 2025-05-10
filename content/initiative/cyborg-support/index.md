@@ -11,7 +11,7 @@ date: 2025-17-03
 ## Who should join?
 
 - If you're a **technologist** willing to attend (or present) LLM findings. 
-- If ou're an **educator**, facilitator, translator, to document properly and create recipes
+- If you're an **educator**, facilitator, translator, to document properly and create recipes
 - If you're a **tech-adjacent** type who wants to empower yourself with AI/LLM, while keeping your autonomy
 - If you're a **manager** of a to-commons project and want to familiarize with terms
 
