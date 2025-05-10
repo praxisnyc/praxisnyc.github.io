@@ -656,8 +656,16 @@ table {
     width: 100%;
 }
 
-table td, table th {
+table td {
 background-color: white;
-padding: var(--gap);
-border-bottom: solid 1px #ccc;
+}
+
+.nimbus {
+    td {
+        padding: var(--gap-half) var(--gap) 0 var(--gap) !important;
+    }
+ tbody td {
+font-size: 70%;
+}
+
 }
