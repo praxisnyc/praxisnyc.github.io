@@ -21,7 +21,7 @@ date: 2025-03-17
 
 | | Title | Tool |
 | ---- | -------- | -------- |
-| 🎙️ | [Show-and-tell presentation proposal form](https://airtable.com/appkwPAsyyBuXZkAN/paguQVSZYsFvtFkdz/form) | airtable |
+| 🎙️ | [Show-and-tell presentation proposal](https://airtable.com/appkwPAsyyBuXZkAN/paguQVSZYsFvtFkdz/form) | airtable form |
 | 💬 | [chat group](https://signal.group/#CjQKIIdZM626CnOYE3Xzk-W1G6CgVXnbrYdrMXHHxZDra1NzEhAGKcSNraIMeX5sHAJKvlFB) | signal |
 | 📋 | [board](https://www.figma.com/board/22B9Kuqfd89zNP4SuIfwi6/cyborg.support?node-id=0%3A1&t=iDT2L6zB6CbIEjBB-1) | figjam |
 | 📆 | [calendar](https://commons.garden/calendar) | google calendar |
