@@ -3,7 +3,7 @@ title: Nimble-Ready links
 status: published
 cover: HJ0wpyOu1x.jpg
 category: nimble-ready
-date: 2025-26-02
+date: 2025-02-26
 ---
 
 - [A Language for Knowledge Networks](https://blog.block.science/a-language-for-knowledge-networks/)

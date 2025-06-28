@@ -11,6 +11,18 @@
     <loc>https://praxis.nyc/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://praxis.nyc/initiative/mastodon/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/pixelfed/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/cyborg-support/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/initiative/nimble-ready/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://praxis.nyc/play/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -83,9 +95,6 @@
     <loc>https://praxis.nyc/study/cyborg/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://praxis.nyc/study/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://praxis.nyc/study/embodiment/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -136,14 +145,6 @@
   </url><url>
     <loc>https://praxis.nyc/categories/</loc>
   </url><url>
-    <loc>https://praxis.nyc/initiative/mastodon/</loc>
-  </url><url>
-    <loc>https://praxis.nyc/initiative/nimble-ready/</loc>
-  </url><url>
-    <loc>https://praxis.nyc/initiative/pixelfed/</loc>
-  </url><url>
     <loc>https://praxis.nyc/tags/</loc>
-  </url><url>
-    <loc>https://praxis.nyc/initiative/cyborg-support/</loc>
   </url>
 </urlset>

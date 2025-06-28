@@ -4,387 +4,282 @@
     <title>Praxis</title>
     <link>https://praxis.nyc/</link>
     <description>Recent content on Praxis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://praxis.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nimbus</title>
       <link>https://praxis.nyc/initiative/nimbus/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/initiative/nimbus/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Mastodon</title>
+      <link>https://praxis.nyc/initiative/mastodon/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://praxis.nyc/initiative/mastodon/</guid>
+      <description>&lt;p&gt;write here about our server, plus rules&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pixelfed</title>
+      <link>https://praxis.nyc/initiative/pixelfed/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://praxis.nyc/initiative/pixelfed/</guid>
+      <description>&lt;p&gt;write here about our server, plus rules&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤖 cyborg support</title>
+      <link>https://praxis.nyc/initiative/cyborg-support/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://praxis.nyc/initiative/cyborg-support/</guid>
+      <description>&lt;h2 id=&#34;who-should-join&#34;&gt;Who should join?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If you&amp;rsquo;re a &lt;strong&gt;technologist&lt;/strong&gt; willing to attend (or present) LLM findings.&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;re an &lt;strong&gt;educator&lt;/strong&gt;, facilitator, translator, to document properly and create recipes&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;re a &lt;strong&gt;tech-adjacent&lt;/strong&gt; type who wants to empower yourself with AI/LLM, while keeping your autonomy&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;re a &lt;strong&gt;manager&lt;/strong&gt; of a to-commons project and want to familiarize with terms&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Tool&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;🎙️&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://airtable.com/appkwPAsyyBuXZkAN/paguQVSZYsFvtFkdz/form&#34;&gt;Show-and-tell presentation proposal form&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;airtable&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;💬&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://signal.group/#CjQKIIdZM626CnOYE3Xzk-W1G6CgVXnbrYdrMXHHxZDra1NzEhAGKcSNraIMeX5sHAJKvlFB&#34;&gt;chat group&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;signal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;📋&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.figma.com/board/22B9Kuqfd89zNP4SuIfwi6/cyborg.support?node-id=0%3A1&amp;amp;t=iDT2L6zB6CbIEjBB-1&#34;&gt;board&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;figjam&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;📆&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://commons.garden/calendar&#34;&gt;calendar&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;google calendar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;past-events&#34;&gt;Past events&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;a href=&#34;https://commons.garden/calendar&#34;&gt;📆&lt;/a&gt; Date&lt;/th&gt;&#xA;          &lt;th&gt;About&lt;/th&gt;&#xA;          &lt;th&gt;Links&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;⭐ 3 July 2024, 4PM EST&lt;/td&gt;&#xA;          &lt;td&gt;Julia deep-dive&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://calendar.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=Xzc1MjNjaGEzODkyazJiOWw4a3FqOGI5azZvcmo4YjlwNjExazRiYTQ2dDIzMGNxMzhvcTMwZ3EyNjhfMjAyNDA3MDNUMjAwMDAwWiAzYzEyZjZkMDk5MjVhNjA0ZjEzNjRlN2I3MmZiZGMzNzdjYzY5Yzc1MWU0ZjdkOTcxMmE2NmZiM2M3N2M2MWRmQGc&amp;amp;tmsrc=3c12f6d09925a604f1364e7b72fbdc377cc69c751e4f7d9712a66fb3c77c61df%40group.calendar.google.com&#34;&gt;calendar invite&lt;/a&gt;, &lt;a href=&#34;%5Bzxxx%5D(https://hackmd.io/@commonsgarden/HykoggEm0)&#34;&gt;notes&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;15 May 2024, 4PM EST&lt;/td&gt;&#xA;          &lt;td&gt;Julia deep-dive&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://hackmd.io/@commonsgarden/HykoggEm0&#34;&gt;notes&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5 April 2024, 4PM EST&lt;/td&gt;&#xA;          &lt;td&gt;show-and-tell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5 January 2024, 4PM EST&lt;/td&gt;&#xA;          &lt;td&gt;pospi presented gptforall and privategpt&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://cyborg.support/post/22&#34;&gt;forum post&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-cyborg-support&#34;&gt;More cyborg support&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@commonsgarden/H1bV2-lo6&#34;&gt;LLM educational series&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@commonsgarden/Byp9hbgip&#34;&gt;The state of AI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@commonsgarden/BkWR3WljT&#34;&gt;Commons Garden mission statement&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@commonsgarden/ai-glossary&#34;&gt;AI Glossary&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/17W0N0eATTeHAA3vZS3rOg&#34;&gt;archive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Nimble-Ready</title>
+      <link>https://praxis.nyc/initiative/nimble-ready/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://praxis.nyc/initiative/nimble-ready/</guid>
+      <description>&lt;h3 id=&#34;a-framework-for-collaboration-that-reduces-transaction-costs-via-a-handshake-protocol-that-determines-what-agents-can-do-together-and-ways-to-work&#34;&gt;A framework for collaboration that reduces transaction costs via a handshake protocol that determines what agents can do together and ways to work&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;unbundling-of-companies--degrowth--worker-centric-model&#34;&gt;Unbundling of Companies // Degrowth // Worker-centric model&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of the main reasons organizations grow monolithic is to cut transaction costs. LLMs allows us to slash these cost, allowing them to stay lean, specialized, and agile—while still collaborating dynamically.&lt;/p&gt;&#xA;&lt;p&gt;This is a new kind of ecosystem, where institutions don’t just interact, they sense each other—like constellations in space—through handshake protocols and smart contracts. These protocols automate middle management, intelligently identifying:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Praxis Play</title>
       <link>https://praxis.nyc/play/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/play/</guid>
-      <description>https://www.figma.com/file/Wa78t5aPCA5H6lfg4pSoud/praxis-play?type=whiteboard&amp;amp;node-id=0%3A1&amp;amp;t=MsNB2ldLQdhpLENL-1</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.figma.com/file/Wa78t5aPCA5H6lfg4pSoud/praxis-play?type=whiteboard&amp;amp;node-id=0%3A1&amp;amp;t=MsNB2ldLQdhpLENL-1&#34;&gt;https://www.figma.com/file/Wa78t5aPCA5H6lfg4pSoud/praxis-play?type=whiteboard&amp;amp;node-id=0%3A1&amp;amp;t=MsNB2ldLQdhpLENL-1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://praxis.nyc/soundboard/herbalism/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/soundboard/herbalism/</guid>
-      <description>https://hackmd.io/@praxis/herbalism-soundboard</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hackmd.io/@praxis/herbalism-soundboard&#34;&gt;https://hackmd.io/@praxis/herbalism-soundboard&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quick Links</title>
       <link>https://praxis.nyc/internal/links/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/links/</guid>
-      <description>Suggestion Boxes fill in the correct form for any subject you want us to work on
- Proposed a study group topic Propose new media for study topic Directions for a new Soundboard and Soundboard HackMD Template - You can also just create a &amp;ldquo;New notes from template&amp;rdquo; in HackMD  Progress Trackers and Announcements  Praxis mastodon instance Praxis Activity Log (ask for credentials to edit)  Tools ask someone in the group for credentials  HackMD Airtable Jitsi Updated Team List  </description>
+      <description>&lt;h2 id=&#34;suggestion-boxes&#34;&gt;Suggestion Boxes&lt;/h2&gt;&#xA;&lt;p&gt;fill in the correct form for any subject you want us to work on&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/pagnvfP66tlmU5Ect/form&#34;&gt;Proposed a study group topic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/pagyVKXHafbjWbhqO/form&#34;&gt;Propose new media for study topic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@praxis/soundboard-template&#34;&gt;Directions for a new Soundboard and Soundboard HackMD Template&lt;/a&gt; - You can also just create a &amp;ldquo;New notes from template&amp;rdquo; in &lt;a href=&#34;https://hackmd.io/@praxis&#34;&gt;HackMD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;progress-trackers-and-announcements&#34;&gt;Progress Trackers and Announcements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://social.praxis.nyc/home&#34;&gt;Praxis mastodon instance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@praxis/TODO&#34;&gt;Praxis Activity Log&lt;/a&gt; (ask for credentials to edit)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;&#xA;&lt;h4 id=&#34;ask-someone-in-the-group-for-credentials&#34;&gt;ask someone in the group for credentials&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/?nav=overview&#34;&gt;HackMD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.airtable.com/&#34;&gt;Airtable&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://meet.jit.si/praxis&#34;&gt;Jitsi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/shrsL9y1hdy8f9ZkE&#34;&gt;Updated Team List&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://praxis.nyc/todo/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/todo/</guid>
-      <description>https://hackmd.io/@praxis/TODO</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hackmd.io/@praxis/TODO&#34;&gt;https://hackmd.io/@praxis/TODO&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>COLLABORATION</title>
       <link>https://praxis.nyc/collaborator/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/collaborator/</guid>
-      <description>Levels of collaboration  Talkers - People who just give verbal feedback Contributor - can contribute content but not edit the website Editor - can contribute AND edit website  Collaboration Roles  Guests Facilitator Core Member  TO DISCUSS  Should all core members have to edit the website and use all the tools?  Responsibilities FACILITATOR  invite Guests and Members make sure every has access to all tools/ permissions needed to fully participate ensure Members and Guests attend as appropriate provide everyone with a clear scope of the project  GUESTS  attend participate access tools/ permissions needed to fully participate  MEMBERS  attend participate access tools/ permissions needed to fully participate attend  What does an onboarded GUEST look like?</description>
+      <description>&lt;h2 id=&#34;levels-of-collaboration&#34;&gt;Levels of collaboration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Talkers - People who just give verbal feedback&lt;/li&gt;&#xA;&lt;li&gt;Contributor - can contribute content but not edit the website&lt;/li&gt;&#xA;&lt;li&gt;Editor - can contribute AND edit website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;collaboration-roles&#34;&gt;Collaboration Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Guests&lt;/li&gt;&#xA;&lt;li&gt;Facilitator&lt;/li&gt;&#xA;&lt;li&gt;Core Member&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;to-discuss&#34;&gt;TO DISCUSS&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Should all core members have to edit the website and use all the tools?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;responsibilities&#34;&gt;Responsibilities&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facilitator&#34;&gt;FACILITATOR&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;invite Guests and Members&lt;/li&gt;&#xA;&lt;li&gt;make sure every has access to all tools/ permissions needed to fully participate&lt;/li&gt;&#xA;&lt;li&gt;ensure Members and Guests attend as appropriate&lt;/li&gt;&#xA;&lt;li&gt;provide everyone with a clear scope of the project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;guests&#34;&gt;GUESTS&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;attend&lt;/li&gt;&#xA;&lt;li&gt;participate&lt;/li&gt;&#xA;&lt;li&gt;access tools/ permissions needed to fully participate&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;members&#34;&gt;MEMBERS&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;attend&lt;/li&gt;&#xA;&lt;li&gt;participate&lt;/li&gt;&#xA;&lt;li&gt;access tools/ permissions needed to fully participate&lt;/li&gt;&#xA;&lt;li&gt;attend&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What does an onboarded GUEST look like?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>redirect</title>
       <link>https://praxis.nyc/cyborg-support/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/cyborg-support/</guid>
-      <description>/initiative/cyborg-support</description>
+      <description>&lt;p&gt;/initiative/cyborg-support&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>redirect</title>
       <link>https://praxis.nyc/nimble-ready/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/nimble-ready/</guid>
-      <description>/initiative/nimble-ready</description>
+      <description>&lt;p&gt;/initiative/nimble-ready&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Soundboard</title>
       <link>https://praxis.nyc/internal/soundboard/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/soundboard/</guid>
-      <description>how to request a soundboard  copy soundboard template create new note and title it answer questions, add any other relevant infoemation change permissions to everyone (ask group if confused) share it with praxis signal group for consideration ]  how to prepare a public soundboard  decide on a date add date to praxis calendar add hackmd note link to calendar create zoom link (ask camille), add date and zoom link on note promote note with date on mastodon   how to announce a soundboard to outsiders  what&amp;rsquo;s praxis what&amp;rsquo;s soundboard what&amp;rsquo;s this soundboard (topic, format, desired goals can)  soundboard debrief how to prepare for a private soundboard pending</description>
+      <description>&lt;h1 id=&#34;how-to-request-a-soundboard&#34;&gt;how to request a soundboard&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;copy soundboard template&lt;/li&gt;&#xA;&lt;li&gt;create new note and title it&lt;/li&gt;&#xA;&lt;li&gt;answer questions, add any other relevant infoemation&lt;/li&gt;&#xA;&lt;li&gt;change permissions to everyone (ask group if confused)&lt;/li&gt;&#xA;&lt;li&gt;share it with &lt;a href=&#34;https://signal.group/#CjQKILSdL3eZy9vMSLQDkh_utsjQ4_acwGRWxu-GUN6OBT_KEhCMz6cKAAyCAPND1wOcbvDy&#34;&gt;praxis signal group&lt;/a&gt; for consideration&#xA;]&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;how-to-prepare-a-public-soundboard&#34;&gt;how to prepare a public soundboard&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;decide on a date&lt;/li&gt;&#xA;&lt;li&gt;add date to praxis calendar&lt;/li&gt;&#xA;&lt;li&gt;add hackmd note link to calendar&lt;/li&gt;&#xA;&lt;li&gt;create zoom link (ask camille), add date and zoom link on note&lt;/li&gt;&#xA;&lt;li&gt;promote note with date on mastodon&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;how-to-announce-a-soundboard-to-outsiders&#34;&gt;how to announce a soundboard to outsiders&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;what&amp;rsquo;s praxis&lt;/li&gt;&#xA;&lt;li&gt;what&amp;rsquo;s soundboard&lt;/li&gt;&#xA;&lt;li&gt;what&amp;rsquo;s this soundboard (topic, format, desired goals can)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;soundboard-debrief&#34;&gt;soundboard debrief&lt;/h1&gt;&#xA;&lt;h1 id=&#34;how-to-prepare-for-a-private-soundboard&#34;&gt;how to prepare for a private soundboard&lt;/h1&gt;&#xA;&lt;p&gt;pending&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The State of Praxis 2023</title>
       <link>https://praxis.nyc/article/state-of-praxis-1223/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/article/state-of-praxis-1223/</guid>
-      <description>Praxis is a fuzzy cloud, a portal to the stars, an epic twirl in the middle of the dancefloor.
-Praxis has taken many forms over the past 6 years &amp;ndash; book club, design collective, queens of the scene, think tank, and more &amp;ndash; and as the year closes, we wanted to use this space to muse a bit about what we&amp;rsquo;ve been up to over the past year and where we are trying to go in the next.</description>
+      <description>&lt;p&gt;Praxis is a fuzzy cloud, a portal to the stars, an epic twirl in the middle of the dancefloor.&lt;/p&gt;&#xA;&lt;p&gt;Praxis has taken many forms over the past 6 years &amp;ndash; book club, design collective, queens of the scene, think tank, and more &amp;ndash; and as the year closes, we wanted to use this space to muse a bit about what we&amp;rsquo;ve been up to over the past year and where we are trying to go in the next.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Editing this website</title>
       <link>https://praxis.nyc/internal/editing/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/editing/</guid>
-      <description>Praxis uses Hugo framework and is hosted on Github pages.
-Pages are markdown + frontmatter on Any page under content folder will be visible on the website, using format: praxis.nyc/(folder name)/(filename minus .md)
-To edit pages you&amp;rsquo;ll need to:
- Learn markdown basics Create a gitlab account Inform team to be added to repo&amp;rsquo;s project members Visit Gitlab IDE to edit Ask around for content templates, so frontmatter is correct Commit all your changes (you&amp;rsquo;ll need a message)  Troubleshooting:</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://praxis.nyc/&#34;&gt;Praxis&lt;/a&gt; uses &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; framework and is hosted on &lt;a href=&#34;https://github.com/praxisnyc/praxis.github.io/&#34;&gt;Github pages&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Pages are &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;markdown&lt;/a&gt; + frontmatter on Any page under &lt;code&gt;content&lt;/code&gt; folder will be visible on the website, using format: &lt;code&gt;praxis.nyc/(folder name)/(filename minus .md)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;To edit pages you&amp;rsquo;ll need to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Learn &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;markdown&lt;/a&gt; basics&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://gitlab.com/users/sign_up&#34;&gt;gitlab account&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Inform team to be added to repo&amp;rsquo;s &lt;a href=&#34;https://gitlab.com/praxis.nyc/praxis.nyc.gitlab.io/-/project_members&#34;&gt;project members&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Visit &lt;a href=&#34;https://gitlab.com/-/ide/project/praxis.nyc/praxis.nyc.gitlab.io/edit/main/-/content/&#34;&gt;Gitlab IDE&lt;/a&gt; to edit&lt;/li&gt;&#xA;&lt;li&gt;Ask around for content templates, so frontmatter is correct&lt;/li&gt;&#xA;&lt;li&gt;Commit all your changes (you&amp;rsquo;ll need a message)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Troubleshooting:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>commons.garden</title>
       <link>https://praxis.nyc/soundboard/commons-garden/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/soundboard/commons-garden/</guid>
-      <description>Initial questions Where are you in your process? We just finished phase 1 with initial categories (spec, wireframe), and heading to phase 2, with people and organization categories, and better integration between categories.
- View phases list view categories draft  What can I help you with the most? Is this a better way to track initiatives? Any other standards we could be using? How to communicate initiative&amp;rsquo;s status so others know where we stand?</description>
+      <description>&lt;h2 id=&#34;initial-questions&#34;&gt;Initial questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;where-are-you-in-your-process&#34;&gt;Where are you in your process?&lt;/h3&gt;&#xA;&lt;p&gt;We just finished phase 1 with initial categories (spec, wireframe), and heading to phase 2, with people and organization categories, and better integration between categories.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gitlab.com/commons-garden/commons-garden.gitlab.io#commonsgarden&#34;&gt;View phases list&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.figma.com/file/7B9UNzqX5ZxXKtVJHNEvUc/documentation?type=whiteboard&amp;amp;t=K6Tsv6HTlRjHZZUL-6&#34;&gt;view categories draft&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-can-i-help-you-with-the-most&#34;&gt;What can I help you with the most?&lt;/h3&gt;&#xA;&lt;p&gt;Is this a better way to track initiatives? Any other standards we could be using? How to communicate initiative&amp;rsquo;s status so others know where we stand?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://praxis.nyc/contact/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/contact/</guid>
-      <description>For all inquiries contact us at praxis.nyc@protonmail.com
-We also offer a free design consulting session for open source projects, set a time here.</description>
+      <description>&lt;p&gt;For all inquiries contact us at &lt;a href=&#34;mailto:praxis.nyc@protonmail.com&#34;&gt;praxis.nyc@protonmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;We also offer a free design consulting session for open source projects, &lt;a href=&#34;https://zcal.co/nonlinear/commons&#34;&gt;set a time here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mesa</title>
       <link>https://praxis.nyc/mesa-for-remote/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/mesa-for-remote/</guid>
-      <description>What is Mesa -- Built upon a gesture library, Mesa provides an open-source AR environment for task-specific apps.
-Created with community use in mind, Mesa recognizes and responds to simultaneous actions of multiple users.
-Mesa is hardware-agnostic, allowing for comprehensive setup and calibration with easily found hardware: camera (input), projector (output) and a computer.
-     Remote Work with Mesa -- Mesa brings a secure and synchronous whiteboard experience to collaborators across the world.</description>
+      <description>&lt;section&gt;&#xA;&#xA;&lt;h2&gt;What is Mesa&lt;/h2&gt;&#xA;&#xA;&#xA;&#x9;&lt;!-- &lt;img src=&#34;https://praxis.nyc/images/mesa-for-remote/mesa-1.svg&#34; class=&#34;right stagger&#34;&gt; --&gt;&#xA;&#x9;&lt;p class=&#34;stagger&#34;&gt;Built upon a gesture library, Mesa provides an open-source AR environment for task-specific apps.&lt;/p&gt;&#xA;&lt;p class=&#34;stagger&#34;&gt;Created with community use in mind, Mesa recognizes and responds to simultaneous actions of multiple users.&lt;/p&gt;&#xA;&#xA;&lt;p class=&#34;stagger&#34;&gt;Mesa is hardware-agnostic, allowing for comprehensive setup and calibration with easily found hardware: camera (input), projector (output) and a computer.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;&#x9;&lt;div class=&#34;mesa-1&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;&lt;h2&gt;Remote Work with Mesa&lt;/h2&gt;&#xA;&#xA;&#xA;&#x9;&lt;!-- &lt;img src=&#34;https://praxis.nyc/images/mesa-for-remote/mesa-2.svg&#34; class=&#34;left stagger&#34;&gt; --&gt;&#xA;&#x9;&lt;p class=&#34;stagger&#34;&gt;Mesa brings a secure and synchronous whiteboard experience to collaborators across the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>cognition</title>
       <link>https://praxis.nyc/slide/cognition/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/slide/cognition/</guid>
-      <description>cognition</description>
+      <description>&lt;p&gt;cognition&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>cognition</title>
       <link>https://praxis.nyc/works/cognition/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/works/cognition/</guid>
       <description>cognition</description>
     </item>
-    
     <item>
       <title>ssb-groups</title>
       <link>https://praxis.nyc/works/ssb-groups/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/works/ssb-groups/</guid>
       <description>ssb-groups</description>
     </item>
-    
     <item>
       <title>wish</title>
       <link>https://praxis.nyc/slide/wish/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/slide/wish/</guid>
-      <description>wish</description>
+      <description>&lt;p&gt;wish&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>wish</title>
       <link>https://praxis.nyc/works/wish/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/works/wish/</guid>
       <description>wish</description>
     </item>
-    
     <item>
       <title>Cyborg series</title>
       <link>https://praxis.nyc/study/cyborg/</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/cyborg/</guid>
-      <description>An ad-hoc study series where we learn and debate extended cognition, new technologies and relevant theories to understand what&amp;rsquo;s ahead.
-We meet every other tuesday 6 PM EST. Signal group and notes board.
-  Apr 18, 2023 7PM EST on jit.si Show and tell: Everything to Know About Artificial Intelligence, or AI (Article) The Augmented Commons: How Augmented Reality Aids Agile Self-Organization (Paper)    Mar 7, 2023 A framework to contest and justify algorithmic decisions (paper), Dude, you broke the Future!</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;An ad-hoc study series where we learn and debate extended cognition, new technologies and relevant theories to understand what&amp;rsquo;s ahead.&lt;/p&gt;&#xA;&lt;p&gt;We meet every other tuesday 6 PM EST. &lt;a href=&#34;https://signal.group/#CjQKIIdZM626CnOYE3Xzk-W1G6CgVXnbrYdrMXHHxZDra1NzEhAGKcSNraIMeX5sHAJKvlFB&#34;&gt;Signal group&lt;/a&gt; and &lt;a href=&#34;https://www.figma.com/file/22B9Kuqfd89zNP4SuIfwi6/Cyborg-study-group?node-id=0%3A1&amp;amp;t=EYuoPxsc3bWx5E8M-1&#34;&gt;notes board&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apr 18, 2023 7PM EST on &lt;a href=&#34;https://meet.jit.si/praxis&#34;&gt;jit.si&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Show and tell:&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/article/ai-artificial-intelligence-chatbot.html&#34;&gt;Everything to Know About Artificial Intelligence, or AI&lt;/a&gt; (Article)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956718&#34;&gt;The Augmented Commons: How Augmented Reality Aids Agile Self-Organization&lt;/a&gt; (Paper)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mar 7, 2023&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s43681-021-00054-3&#34;&gt;A framework to contest and justify algorithmic decisions&lt;/a&gt; (paper), &lt;a href=&#34;https://www.youtube.com/watch?v=RmIgJ64z6Y4&#34;&gt;Dude, you broke the Future!&lt;/a&gt; (video)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feb 21, 2023&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.thephilosopher1923.org/post/jakob-von-uexkull-umwelt&#34;&gt;Jakob von Uexküll’s Concept of Umwelt&lt;/a&gt;, &lt;a href=&#34;https://jamesbridle.com/books/ways-of-being&#34;&gt;Ways of Being&lt;/a&gt; on umwelt (4 pages) and Josh Clark&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=Hu5Jc1yIfas&#34;&gt;AI Is Your New Design Material&lt;/a&gt; (video)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feb 7, 2023&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.rand.org/pubs/research_memoranda/RM3420.html&#34;&gt;The Information: A History, A Theory, A Flood&lt;/a&gt; by James Gleick (chapter 7: Information theory, on Claude Shannon, start at &amp;ldquo;Shannon had a notion along similar lines.&amp;rdquo;) and &lt;a href=&#34;https://www.google.com/search?client=firefox-b-1-d&amp;amp;q=staying+with+the+trouble&#34;&gt;Staying with the Trouble&lt;/a&gt; by Donna Haraway (chapter 3: Sympoiesis)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dec 14, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.press.umich.edu/9900/simulacra_and_simulation&#34;&gt;Simulacra and Simulation&lt;/a&gt;: Hypermarket and Hypercommodity (page 52) and The Implosion of Meaning in the Media (page 55)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nov 30, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.rand.org/pubs/research_memoranda/RM3420.html&#34;&gt;Introduction to Distributed Communications Networks&lt;/a&gt; by RAND and &lt;a href=&#34;https://academic.oup.com/book/6746&#34;&gt;Supersizing the Mind&lt;/a&gt; by Andy Clark (chapter 2, The Negotiable Body)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nov 16, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-94-011-3406-4_18&#34;&gt;The Uncut Self&lt;/a&gt; by Lynn Margulis and Dorion Sagan&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nov 9, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cumincad.scix.net/data/works/att/7f71.content.pdf&#34;&gt;meshworks, hierarchies and interfaces&lt;/a&gt; by Manuel DeLanda&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Embodiment</title>
       <link>https://praxis.nyc/study/embodiment/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/embodiment/</guid>
-      <description>Come as You Are Mon November 15 2021, 7:30PM EST Come as You Are by Emily Nagoski Chapter 4 - Emotional Context The Body Never Lies by Alice Miller - Chapter 13    The Body Keeps the Score Mon January 10 2022, 7:30PM EST Chapter 5    Polyvagal Mon January 24 2022, 7:30PM EST Life Through A Polyvagal Lens Deb Dana, LCSW In the Penal Colony (short story) - Kafka    Bone, Breath, and Gesture Mon February 7 2022, 7:30PM EST chapter TBD</description>
+      <description>&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Come as You Are&lt;/li&gt;&#xA;&lt;li&gt;Mon November 15 2021, 7:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.simonandschuster.com/books/Come-As-You-Are-Revised-and-Updated/Emily-Nagoski/9781982165314&#34;&gt;Come as You Are&lt;/a&gt; by Emily Nagoski Chapter 4 - Emotional Context&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.alice-miller.com/en/the-body-never-lies-2/&#34;&gt;The Body Never Lies&lt;/a&gt; by Alice Miller - Chapter 13&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Body Keeps the Score&lt;/li&gt;&#xA;&lt;li&gt;Mon January 10 2022, 7:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.indiebound.org/book/9780143127741&#34;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polyvagal&lt;/li&gt;&#xA;&lt;li&gt;Mon January 24 2022, 7:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IXHkjR4e4UM&amp;amp;t=300s&#34;&gt;Life Through A Polyvagal Lens&lt;/a&gt; Deb Dana, LCSW&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwjF9Pnjmv3zAhVsmeAKHY9EBvEQFnoECBAQAQ&amp;amp;url=http%3A%2F%2Fwww.arts.uwaterloo.ca%2F~raha%2F793CA_web%2FPenalColony.pdf&amp;amp;usg=AOvVaw1-Xiy5tjIMG5mmH2FjJNNe&#34;&gt;In the Penal Colony&lt;/a&gt; (short story) - Kafka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bone, Breath, and Gesture&lt;/li&gt;&#xA;&lt;li&gt;Mon February 7 2022, 7:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/87746/bone-breath-and-gesture-by-don-hanlon-johnson/&#34;&gt;chapter TBD&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/87746/bone-breath-and-gesture-by-don-hanlon-johnson/&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/87746/bone-breath-and-gesture-by-don-hanlon-johnson/&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Radical Care</title>
       <link>https://praxis.nyc/study/radical-care/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/radical-care/</guid>
-      <description> Corruption of care Sat June 19, 2:30PM EST Neoliberalism – the ideology at the root of all our problems (article) From Managerial Feudalism to the Revolt of the Caring Classes (video, 59:10)    Ideologies on Care Sat July 17, 2:30PM EST Cindy Milstein on grief, mourning, and building institutions for care in anarchist movements (podcast) Silvia Federici - On Elder Care Work And The Limits of Marxism (19 pages) The Care Manifesto chapter 2, Caring Kinships    Pirate Care (guest speakers) Sat July 31, 2:30PM EST Introduction to Pirate Care Criminalization of Solidarity The Hologram: a peer-to-peer social technology of care    Institutional Care Sat August 14, 2:30PM EST Information Maintenance As a Practice of Care Hail The Maintainers (article)  </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Corruption of care&lt;/li&gt;&#xA;&lt;li&gt;Sat June 19, 2:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.theguardian.com/books/2016/apr/15/neoliberalism-ideology-problem-george-monbiot&#34;&gt;Neoliberalism – the ideology at the root of all our problems&lt;/a&gt; (article)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11241-from_managerial_feudalism_to_the_revolt_of_the_caring_classes&#34;&gt;From Managerial Feudalism to the Revolt of the Caring Classes&lt;/a&gt; (video, 59:10)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ideologies on Care&lt;/li&gt;&#xA;&lt;li&gt;Sat July 17, 2:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://thefinalstrawradio.noblogs.org/post/2018/12/16/cindymilsteinpt1/&#34;&gt;Cindy Milstein on grief, mourning, and building institutions for care in anarchist movements (podcast)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://libcom.org/files/silvia-federici-on-elder-care.pdf&#34;&gt;Silvia Federici - On Elder Care Work And The Limits of Marxism&lt;/a&gt; (19 pages)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.versobooks.com/books/3706-care-manifesto&#34;&gt;The Care Manifesto&lt;/a&gt; chapter 2, Caring Kinships&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pirate Care (guest speakers)&lt;/li&gt;&#xA;&lt;li&gt;Sat July 31, 2:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://syllabus.pirate.care/topic/piratecareintroduction/&#34;&gt;Introduction to Pirate Care&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://syllabus.pirate.care/topic/criminalizationofsolidarity/&#34;&gt;Criminalization of Solidarity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://syllabus.pirate.care/topic/hologramsocialcare/&#34;&gt;The Hologram: a peer-to-peer social technology of care&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Institutional Care&lt;/li&gt;&#xA;&lt;li&gt;Sat August 14, 2:30PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://themaintainers.org/info-mc-work&#34;&gt;Information Maintenance As a Practice of Care&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more&#34;&gt;Hail The Maintainers&lt;/a&gt; (article)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>redux 1</title>
       <link>https://praxis.nyc/redux/1/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/redux/1/</guid>
-      <description>Download Redux #1 Print PDF
-                    A compilation of quotes from panopticon study group
- Web version Print version  Reprint freely</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://praxis.nyc/redux/praxis-redux-1-print.pdf&#34;&gt;Download Redux #1 Print PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p01.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p02.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p03.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p04.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p05.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p06.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p07.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p08.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p09.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p10.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p11.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p12.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p13.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p14.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p15.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;https://praxis.nyc/redux/redux-e01p16.svg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A compilation of quotes from &lt;a href=&#34;https://praxis.nyc/study/panopticon/&#34;&gt;panopticon&lt;/a&gt; study group&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc/redux/praxis-redux-1-web.pdf&#34;&gt;Web version&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc/redux/praxis-redux-1-print.pdf&#34;&gt;Print version&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reprint freely&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Panopticon</title>
       <link>https://praxis.nyc/study/panopticon/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/panopticon/</guid>
-      <description>Discussing Shoshana Zuboff&amp;rsquo;s The Age of Surveillance Capitalism.
-We highly suggest you to listen to Shoshana&amp;rsquo;s talk at Data &amp;amp; Society (1:08 total, start at 5min).
-  Panopticon session 1 Initial Talk Thursday 7/18/2018, 7 to 9pm Private space Relevant links (from our signal group):  QR is King Mobile technology is increasingly serving as the vehicle for a sophisticated national surveillance system that’s deeply intertwined with all kinds of necessary everyday transactions.</description>
+      <description>&lt;p&gt;Discussing Shoshana Zuboff&amp;rsquo;s &lt;a href=&#34;https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/&#34;&gt;The Age of Surveillance Capitalism&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We highly suggest you to listen to &lt;a href=&#34;https://soundcloud.com/thadk/databite-no-118-surveillance-capitalism-democracy-shoshana-zuboff&#34;&gt;Shoshana&amp;rsquo;s talk at Data &amp;amp; Society&lt;/a&gt; (1:08 total, start at 5min).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Panopticon session 1&lt;/li&gt;&#xA;&lt;li&gt;Initial Talk&lt;/li&gt;&#xA;&lt;li&gt;Thursday 7/18/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;Private space&lt;/li&gt;&#xA;&lt;li&gt;Relevant links (from our signal group):&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://logicmag.io/china/qr-is-king/&#34;&gt;QR is King&lt;/a&gt; Mobile technology is increasingly serving as the vehicle for a sophisticated national surveillance system that’s deeply intertwined with all kinds of necessary everyday transactions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://boingboing.net/2019/07/18/this-map-shows-where-local-pol.html?utm_source=News+from+The+Recompiler&amp;amp;utm_campaign=4de46ea20a-EMAIL_CAMPAIGN_2018_N25_COPY_01&amp;amp;utm_medium=email&amp;amp;utm_term=0_131cefd51c-4de46ea20a-63458445&amp;amp;mc_cid=4de46ea20a&amp;amp;mc_eid=2959e14a0d&#34;&gt;This map shows where local police departments partner with Amazon&amp;rsquo;s Ring&lt;/a&gt;More than 50 police departments across the US have partnered with Ring, many who offer free or discounted Ring doorbells using taxpayer money.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/12/opinion/facebook-google-privacy-policies.html?mtrref=undefined&#34;&gt;We Read 150 Privacy Policies. They Were an Incomprehensible Disaster.&lt;/a&gt; A significant chunk of the data collection economy is based on consenting to complicated documents that many Americans can’t understand.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://interactive.aljazeera.com/aje/2019/hail-algorithms/index.html&#34;&gt;All Hail the Algorithm&lt;/a&gt;A five-part series exploring the impact of algorithms on our everyday lives.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Panopticon session 2&lt;/li&gt;&#xA;&lt;li&gt;The Age of Surveillance Capitalism, Part 1&lt;/li&gt;&#xA;&lt;li&gt;Tuesday 8/13/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;Tradesman Bar&lt;/li&gt;&#xA;&lt;li&gt;Relevant links (from our signal group):&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/obfuscation&#34;&gt;Obfuscation&lt;/a&gt; How we can evade, protest, and sabotage today&amp;rsquo;s pervasive digital surveillance by deploying more data, not less—and why we should.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Session 3&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>enslavement</title>
       <link>https://praxis.nyc/study/enslavement/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/enslavement/</guid>
-      <description>Debt By David Graeber Jan 16th 2021 - 2pm EST chapter 6 - Games With Sex and Death Download PDF get calendar invite visit room    Slavery and Social Death By Orlando Patterson Feb 13 2021 - 2pm EST Chapter 2 - Authority, Alienation, and Social Death Download PDF get calendar invite visit room    Scenes of Subjection By Saidiya Hartman Mar 6th 2021 - 2pm EST Chapter 2 - Redressing the Pained Body: Toward a Theory of Practice Download PDF get calendar invite visit room    Against The Grain By James C.</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Debt&lt;/li&gt;&#xA;&lt;li&gt;By David Graeber&lt;/li&gt;&#xA;&lt;li&gt;Jan 16th 2021 - 2pm EST&lt;/li&gt;&#xA;&lt;li&gt;chapter 6 - Games With Sex and Death&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.org/details/DebtTheFirst5000Years&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/enslavement.ics&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Slavery and Social Death&lt;/li&gt;&#xA;&lt;li&gt;By Orlando Patterson&lt;/li&gt;&#xA;&lt;li&gt;Feb 13 2021 - 2pm EST&lt;/li&gt;&#xA;&lt;li&gt;Chapter 2 - Authority, Alienation, and Social Death&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://31.42.184.140/main/471000/d96054fc7c77041be50642853f36f849/Orlando%20Patterson%20-%20Slavery%20and%20Social%20Death_%20A%20Comparative%20Study%20%281985%29.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/enslavement.ics&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scenes of Subjection&lt;/li&gt;&#xA;&lt;li&gt;By Saidiya Hartman&lt;/li&gt;&#xA;&lt;li&gt;Mar 6th 2021 - 2pm EST&lt;/li&gt;&#xA;&lt;li&gt;Chapter 2 - Redressing the Pained Body: Toward a Theory of Practice&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/1/2391/files/2018/03/Race-and-American-Culture-Saidiya-V.-Hartman-Scenes-of-Subjection_-Terror-Slavery-and-Self-Making-in-Nineteenth-Century-America-1997-Oxford-University-Press-2h0let9.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/enslavement.ics&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Against The Grain&lt;/li&gt;&#xA;&lt;li&gt;By James C. Scott&lt;/li&gt;&#xA;&lt;li&gt;Mar 20th 2021 - 2pm EST&lt;/li&gt;&#xA;&lt;li&gt;Chapter 5 - Population Control: Bondage and War&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/enslavement.ics&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>study</title>
       <link>https://praxis.nyc/study/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/study/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>team</title>
       <link>https://praxis.nyc/team/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/team/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>bureaucracy</title>
       <link>https://praxis.nyc/study/bureaucracy/</link>
       <pubDate>Mon, 06 Jul 2020 02:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/bureaucracy/</guid>
-      <description>the visible hand Thursday, August 6, 2020, 6-8PM EST get calendar invite visit room 1. The Visible Hand: The Ascendancy of the Manager (Page 504 - 511 via absolute PDF pages or 490 - 497 via printed pages) Download PDF 2. From Managerial Feudalism to the Revolt of the Caring Classes - David Graeber at CCC (59:10) Watch Video    anarchist cybernetics Thursday, August 20, 2020, 6-8PM EST get calendar invite visit room 1.</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;the visible hand&lt;/li&gt;&#xA;&lt;li&gt;Thursday, August 6, 2020, 6-8PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/bureaucracy.ics&#39;&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#39;&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;1. The Visible Hand: The Ascendancy of the Manager (Page 504 - 511 via absolute PDF pages or 490 - 497 via printed pages)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dipiufabc.files.wordpress.com/2015/06/alfred_d-_chandler_the_visible_hand_managerial_bookzz-org.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;2. From Managerial Feudalism to the Revolt of the Caring Classes - David Graeber at CCC (59:10)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11241-from_managerial_feudalism_to_the_revolt_of_the_caring_classes&#34;&gt;Watch Video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;anarchist cybernetics&lt;/li&gt;&#xA;&lt;li&gt;Thursday, August 20, 2020, 6-8PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/bureaucracy.ics&#39;&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#39;&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;1. Anarchist Cybernetics Chapter 2: Stafford Beer, Organisational Cybernetics and the Viable System Model (Pages 25 - 51)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pdfs.semanticscholar.org/85bb/e120ca0c076881d798a99f9b674bc94e133b.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;what is an assemblage?&lt;/li&gt;&#xA;&lt;li&gt;Thursday, September 10, 2020, 6-8PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/bureaucracy.ics&#39;&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#39;&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;1. What is an Assemblage?&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.academia.edu/31986514/What_is_an_Assemblage&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;legibility&lt;/li&gt;&#xA;&lt;li&gt;Thursday, October 1st, 2020, 6-8PM EST&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/bureaucracy.ics&#39;&#34;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://praxis.nyc//big-room&#39;&#34;&gt;visit room&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Seeing Like a State, by James C. Scott&lt;/li&gt;&#xA;&lt;li&gt;Chapter 3: Authoritarian High Modernism&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://monoskop.org/images/9/9b/Scott_James_C_Seeing_Like_a_State_How_Certain_Schemes_to_Improve_the_Human_Condition_1998.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Situated Cognition</title>
       <link>https://praxis.nyc/cognition/</link>
       <pubDate>Mon, 01 Jun 2020 18:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/cognition/</guid>
-      <description>Brainbound The (nonneural) body is just the sensor and effector system of the brain, and the world is just the arena in which adaptive problems get posed and in which the brain–body system must sense and act. All human cognition depends directly on neural activity alone.    Extended Includes inextricable tangles of feedback, feed-forward, and feed-around loops: loops that promiscuously criss-cross the boundaries of brain, body, and world.</description>
+      <description>&lt;section&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img src=&#34;https://praxis.nyc/images/supersizing.jpg&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img class=&#34;fragment&#34; src=&#34;https://praxis.nyc/images/beyond.jpg&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img class=&#34;fragment&#34; src=&#34;https://praxis.nyc/images/understanding.jpg&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;/section&gt;&#xA;&lt;section&gt;&#xA;&lt;div class=&#34;grid&#34;&gt;&#xA;&#x9;&#x9;&lt;div&gt;&#xA;&#x9;&#x9;&lt;h2&gt;Brainbound&lt;/h2&gt;&#xA;&lt;div class=&#34;description fragment&#34;&gt;&#xA;&#x9;&lt;p&gt;The (nonneural) body is just the sensor and effector system of the brain, and the world is just the arena in which adaptive problems get posed and in which the brain–body system must sense and act. &lt;/p&gt;&#xA;&lt;blockquote&gt;All human cognition depends directly on neural activity alone.&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div&gt;&#xA;&#x9;&lt;h2&gt;Extended&lt;/h2&gt;&#xA;&#x9;&lt;div class=&#34;description fragment&#34;&gt;&#xA;&#x9;&lt;p&gt;Includes inextricable tangles of feedback, feed-forward, and feed-around loops: loops that promiscuously criss-cross the boundaries of brain, body, and world. The local mechanisms of mind are not all in the head. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>✨Wish</title>
       <link>https://praxis.nyc/wish/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/wish/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Collapsism</title>
       <link>https://praxis.nyc/study/collapsism/</link>
       <pubDate>Tue, 17 Dec 2019 02:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/collapsism/</guid>
-      <description>compos mentis
-  Tuesday, March 31, 2020, 7:30-9:30PM EST
-  get calendar invite online: visit room
-  1. systemic risks to civilization and responses (45 min)
-  2. Life Through A Polyvagal Lens (1h 20 min, start 5min in)
-  other media (audio, etc)
-  map making
-  Thursday, April 9, 2020, 7:30-9:30PM EST
-  get calendar invite online: visit room</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;compos mentis&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tuesday, March 31, 2020, 7:30-9:30PM EST&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/collapsism.ics&#34;&gt;get calendar invite&lt;/a&gt; &lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;online: visit room&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1. systemic risks to civilization and responses (45 min)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2. Life Through A Polyvagal Lens (1h 20 min, start 5min in)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.jameswjesso.com/deb-dana-polyvagal-attmind94/&#34;&gt;other media (audio, etc)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;map making&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Thursday, April 9, 2020, 7:30-9:30PM EST&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://praxis.nyc//assets/events/collapsism.ics&#34;&gt;get calendar invite&lt;/a&gt; &lt;a href=&#34;https://praxis.nyc//big-room&#34;&gt;online: visit room&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1. The Mushroom at the End of the World (Prologue, 9 pages) &lt;a href=&#34;https://www.academia.edu/40320405/The_Mushroom_at_the_End_of_the_World_-_Anna_Tsing&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2. exercise: map making (tutorial below, thanks &lt;a href=&#34;https://mastodon.social/web/accounts/136166&#34;&gt;Camille&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hyperreal</title>
       <link>https://praxis.nyc/study/hyperreal/</link>
       <pubDate>Mon, 21 Jan 2019 18:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/hyperreal/</guid>
-      <description>This study circle met in Brooklyn every other Wednesday starting April 18 2018 for a total of five sessions.
-  Dude, You Broke the Future Wednesday 4/18/2018, 7 to 9pm at June Bar Dude, You Broke the Future video, 57 minutes Simulacra and Simulation  The Precession of Simulacra, page 3 The Divine Irreference of Images, page 4   Download PDF    Society of Spectacle Wednesday 5/2/2018, 7 to 9pm at 375 Menahan Street  Chapter 1: The Culmination of Separation Chapter 2: The Commodity as Spectacle Chapter 6: Spetacular Time   download PDF    The Work of Art in the Age of Mechanical Reproduction Wednesday 5/16/2018, 7 to 9pm at 375 Menahan Street Download PDF    Understanding Media Wednesday 6/6/2018, 7 to 9pm at June Bar The Gadget Lover: Narcissus as Narcosis Challenge and Collapse: The Nemesis of Creativity Download PDF    Immediatism, Hakim Bey Wednesday 7/19/2018, 7 to 9pm at Tradesman Bar Immediatism chapter (page 12) Download PDF Telekommunist Manifesto The Manifesto of the Telekommunisten Network Download PDF Simulacra and Simulation  Hypermarket and Hypercommodity, page 52 The Implosion of Meaning in the Media, page 55 Simulacra and science fiction, page 81   Download PDF  </description>
+      <description>&lt;p&gt;This study circle met in Brooklyn every other Wednesday starting April 18 2018 for a total of five sessions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dude, You Broke the Future&lt;/li&gt;&#xA;&lt;li&gt;Wednesday 4/18/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;at June Bar&lt;/li&gt;&#xA;&lt;li&gt;Dude, You Broke the Future&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RmIgJ64z6Y4&#34;&gt;video&lt;/a&gt;, 57 minutes&lt;/li&gt;&#xA;&lt;li&gt;Simulacra and Simulation&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The Precession of Simulacra, page 3&lt;/li&gt;&#xA;&lt;li&gt;The Divine Irreference of Images, page 4&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.e-reading.club/bookreader.php/144970/Simulacra_and_Simulation.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Society of Spectacle&lt;/li&gt;&#xA;&lt;li&gt;Wednesday 5/2/2018, 7 to 9pm at 375 Menahan Street&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Chapter 1: The Culmination of Separation&lt;/li&gt;&#xA;&lt;li&gt;Chapter 2: The Commodity as Spectacle&lt;/li&gt;&#xA;&lt;li&gt;Chapter 6: Spetacular Time&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://theanarchistlibrary.org/library/guy-debord-the-society-of-the-spectacle.pdf&#34;&gt;download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Work of Art in the Age of Mechanical Reproduction&lt;/li&gt;&#xA;&lt;li&gt;Wednesday 5/16/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;at 375 Menahan Street&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://web.mit.edu/allanmc/www/benjamin.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Understanding Media&lt;/li&gt;&#xA;&lt;li&gt;Wednesday 6/6/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;at June Bar&lt;/li&gt;&#xA;&lt;li&gt;The Gadget Lover: Narcissus as Narcosis&lt;/li&gt;&#xA;&lt;li&gt;Challenge and Collapse: The Nemesis of Creativity&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://robynbacken.com/text/nw_research.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Immediatism, Hakim Bey&lt;/li&gt;&#xA;&lt;li&gt;Wednesday 7/19/2018, 7 to 9pm&lt;/li&gt;&#xA;&lt;li&gt;at Tradesman Bar&lt;/li&gt;&#xA;&lt;li&gt;Immediatism chapter (page 12)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://monoskop.org/images/1/17/Bey_Hakim_Immediatism.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Telekommunist Manifesto&lt;/li&gt;&#xA;&lt;li&gt;The Manifesto of the Telekommunisten Network&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://media.telekommunisten.net/manifesto.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Simulacra and Simulation&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hypermarket and Hypercommodity, page 52&lt;/li&gt;&#xA;&lt;li&gt;The Implosion of Meaning in the Media, page 55&lt;/li&gt;&#xA;&lt;li&gt;Simulacra and science fiction, page 81&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.e-reading.club/bookreader.php/144970/Simulacra_and_Simulation.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Making Space</title>
       <link>https://praxis.nyc/study/making-space/</link>
       <pubDate>Mon, 21 Jan 2019 18:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/making-space/</guid>
-      <description>We meet every other thursday, talk async on our signal group and shared notes.
-  Assessment Exercise Thurday, Feb 16, 2023 Emergent Strategy by Adrienne Maree Brown - Assessment Exercise (p. 187) Download PDF Between The Earth and Empire pp 162-171 Download PDF    The Empowerment Manual Thurday, Mar 2, 2023 The Empowerment Manual by Starhawk pp 123-137 Download PDF    Turn This World Inside Out: The Emergence of Nurturance Culture Thurday, Mar 16, 2023 Chapter 7: Own, Apologize, Repair- Coming Back To Integrity    Abolish the Family Thurday, Mar 30, 2023 chapter 3  </description>
+      <description>&lt;p&gt;We meet &lt;a href=&#34;https://praxis.nyc/big-room&#34;&gt;every other thursday&lt;/a&gt;, talk async on &lt;a href=&#34;https://signal.group/#CjQKIPegvchEQyuQXnKDrwUBYniuH9kw0T3QS1Ao8s0uU1raEhA7ehpeUK8vzxqInPRzxTRX&#34;&gt;our signal group&lt;/a&gt; and &lt;a href=&#34;https://hackmd.io/@praxis/making-space&#34;&gt;shared notes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Assessment Exercise&lt;/li&gt;&#xA;&lt;li&gt;Thurday, Feb 16, 2023&lt;/li&gt;&#xA;&lt;li&gt;Emergent Strategy by Adrienne Maree Brown - Assessment Exercise (p. 187)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwiThcK7xd77AhUeD1kFHf2TBbEQFnoECB8QAQ&amp;amp;url=https%3A%2F%2Fcanvas.uw.edu%2Fcourses%2F1318795%2Ffiles%2F58259301%2Fdownload%3Fverifier%3DVon7wqwJj5CEhx3dYyXIlHGhHry8fw6Z5ynGfBSo%26wrap%3D1&amp;amp;usg=AOvVaw2U6iIh3SpGH7_pMwZGwqnW&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Between The Earth and Empire&lt;/li&gt;&#xA;&lt;li&gt;pp 162-171&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.org/details/between_earth_and_empire_9781629636658/page/n3/mode/2up&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Empowerment Manual&lt;/li&gt;&#xA;&lt;li&gt;Thurday, Mar 2, 2023&lt;/li&gt;&#xA;&lt;li&gt;The Empowerment Manual by Starhawk pp 123-137&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sustainabilitypopulareducation.files.wordpress.com/2014/05/the-empowerment-manual_nodrm.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Turn This World Inside Out: The Emergence of Nurturance Culture&lt;/li&gt;&#xA;&lt;li&gt;Thurday, Mar 16, 2023&lt;/li&gt;&#xA;&lt;li&gt;Chapter 7: Own, Apologize, Repair- Coming Back To Integrity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Abolish the Family&lt;/li&gt;&#xA;&lt;li&gt;Thurday, Mar 30, 2023&lt;/li&gt;&#xA;&lt;li&gt;chapter 3&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>nomadism</title>
       <link>https://praxis.nyc/study/nomadism/</link>
       <pubDate>Mon, 21 Jan 2019 18:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/nomadism/</guid>
-      <description>This study circle met in Brooklyn every other week starting March 5th 2019 for a total of four sessions.
-  Treatise on Nomadology: The War Machine Tuesday, Mar 5th 2019, 7-9pm A Thousand Plateaus Deleuze and Guattari Download PDF    The Smooth and the Striated Tuesday, March 26 2019, 7-9pm A Thousand Plateaus Deleuze and Guattari Download PDF    Thin Simplifications and Practical Knowledge: Metis Tuesday, April 9 2019, 7-9pm Seeing Like a State James C.</description>
+      <description>&lt;p&gt;This study circle met in Brooklyn every other week starting March 5th 2019 for a total of four sessions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Treatise on Nomadology: The War Machine&lt;/li&gt;&#xA;&lt;li&gt;Tuesday, Mar 5th 2019, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;A Thousand Plateaus&lt;/li&gt;&#xA;&lt;li&gt;Deleuze and Guattari&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://libcom.org/files/A%20Thousand%20Plateaus.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Smooth and the Striated&lt;/li&gt;&#xA;&lt;li&gt;Tuesday, March 26 2019, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;A Thousand Plateaus&lt;/li&gt;&#xA;&lt;li&gt;Deleuze and Guattari&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://libcom.org/files/A%20Thousand%20Plateaus.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thin Simplifications and Practical Knowledge: Metis&lt;/li&gt;&#xA;&lt;li&gt;Tuesday, April 9 2019, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;Seeing Like a State&lt;/li&gt;&#xA;&lt;li&gt;James C. Scott&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arts of Noticing&lt;/li&gt;&#xA;&lt;li&gt;Contamination as Collaboration&lt;/li&gt;&#xA;&lt;li&gt;Some Problems with Scale&lt;/li&gt;&#xA;&lt;li&gt;Tuesday, April 18 2019, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins&lt;/li&gt;&#xA;&lt;li&gt;Anna Lowenhaupt Tsing&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://naturalezacienciaysociedad.org/wp-content/uploads/sites/3/2016/02/Tsing-Anna-Lowenhaupt-The-mushroom-at-the-end-of-the-world-on-the-possibility-of-life-in-capitalist-ruins-Princeton-University-Press-2015.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Queer Families</title>
       <link>https://praxis.nyc/study/queer-families/</link>
       <pubDate>Mon, 21 Jan 2019 18:03:16 -0500</pubDate>
-      
       <guid>https://praxis.nyc/study/queer-families/</guid>
-      <description> The Dialect of Sex: The Case for a Feminist Revolution by Shulamith Firestone Thursday August 10th 2017, 7-9pm Bluestockings Bookstore Chapter 1 download PDF    The Straight Mind and Other Essays by Monique Wittig Thursday August 24th 2017, 7-9pm June Bar One Is Not Born a Woman Download PDF The Straight Mind  On the Social Contract   Download PDF    Feminism is Queer: The Intimate Connection Between Queer and Feminist Theory by Mimi Marinucci Wednesday September 13th 2017, 7-9pm June Bar chapter TBD download PDF    The History of Sexuality by Michel Foucault Wednesday September 27th 2017, 7-9pm June Bar chapter TBD Download PDF    The Dialect of Sex: The Case for a Feminist Revolution by Shulamith Firestone Thursday October 25th 2017, 7-9pm June Bar Last chapter download PDF  </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;The Dialect of Sex: The Case for a Feminist Revolution by Shulamith Firestone&lt;/li&gt;&#xA;&lt;li&gt;Thursday August 10th 2017, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;Bluestockings Bookstore&lt;/li&gt;&#xA;&lt;li&gt;Chapter 1&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://teoriaevolutiva.files.wordpress.com/2013/10/firestone-shulamith-dialectic-sex-case-feminist-revolution.pdf&#34;&gt;download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Straight Mind and Other Essays by Monique Wittig&lt;/li&gt;&#xA;&lt;li&gt;Thursday August 24th 2017, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;June Bar&lt;/li&gt;&#xA;&lt;li&gt;One Is Not Born a Woman&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://azinelibrary.org/other/wittig-print.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;The Straight Mind&#xA;&lt;ol&gt;&#xA;&lt;li&gt;On the Social Contract&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://faculty.winthrop.edu/stockk/contemporary%20art/Wittig%20straight.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feminism is Queer: The Intimate Connection Between Queer and Feminist Theory by Mimi Marinucci&lt;/li&gt;&#xA;&lt;li&gt;Wednesday September 13th 2017, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;June Bar&lt;/li&gt;&#xA;&lt;li&gt;chapter TBD&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://voidnetwork.gr/wp-content/uploads/2016/10/Feminism-is-Queer-The-Intimate-Connection-between-Queer-and-Feminist-Theory-Mimi-Marinucci-.pdf&#34;&gt;download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The History of Sexuality by Michel Foucault&lt;/li&gt;&#xA;&lt;li&gt;Wednesday September 27th 2017, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;June Bar&lt;/li&gt;&#xA;&lt;li&gt;chapter TBD&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://home.ku.edu.tr/~mbaker/CSHS503/FoucaultHistorySex.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Dialect of Sex: The Case for a Feminist Revolution by Shulamith Firestone&lt;/li&gt;&#xA;&lt;li&gt;Thursday October 25th 2017, 7-9pm&lt;/li&gt;&#xA;&lt;li&gt;June Bar&lt;/li&gt;&#xA;&lt;li&gt;Last chapter&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://teoriaevolutiva.files.wordpress.com/2013/10/firestone-shulamith-dialectic-sex-case-feminist-revolution.pdf&#34;&gt;download PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
-    <item>
-      <title>Mastodon</title>
-      <link>https://praxis.nyc/initiative/mastodon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praxis.nyc/initiative/mastodon/</guid>
-      <description>write here about our server, plus rules</description>
-    </item>
-    
-    <item>
-      <title>Nimble-Ready</title>
-      <link>https://praxis.nyc/initiative/nimble-ready/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praxis.nyc/initiative/nimble-ready/</guid>
-      <description>A framework for collaboration that reduces transaction costs via a handshake protocol that determines what agents can do together and ways to work  Unbundling of Companies // Degrowth // Worker-centric model  One of the main reasons organizations grow monolithic is to cut transaction costs. LLMs allows us to slash these cost, allowing them to stay lean, specialized, and agile—while still collaborating dynamically.
-This is a new kind of ecosystem, where institutions don’t just interact, they sense each other—like constellations in space—through handshake protocols and smart contracts.</description>
-    </item>
-    
-    <item>
-      <title>Pixelfed</title>
-      <link>https://praxis.nyc/initiative/pixelfed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praxis.nyc/initiative/pixelfed/</guid>
-      <description>write here about our server, plus rules</description>
-    </item>
-    
-    <item>
-      <title>🤖 cyborg support</title>
-      <link>https://praxis.nyc/initiative/cyborg-support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praxis.nyc/initiative/cyborg-support/</guid>
-      <description>Who should join?  If you&amp;rsquo;re a technologist willing to attend (or present) LLM findings. If you&amp;rsquo;re an educator, facilitator, translator, to document properly and create recipes If you&amp;rsquo;re a tech-adjacent type who wants to empower yourself with AI/LLM, while keeping your autonomy If you&amp;rsquo;re a manager of a to-commons project and want to familiarize with terms   Links     Title Tool     🎙️ meeting place jitsi   💬 chat group signal   📋 board figjam   📆 calendar google calendar     Past events    📆 Date About Links      ⭐ 3 July 2024, 4PM EST Julia deep-dive calendar invite, notes    15 May 2024, 4PM EST Julia deep-dive notes    5 April 2024, 4PM EST show-and-tell     5 January 2024, 4PM EST pospi presented gptforall and privategpt forum post      More cyborg support  LLM educational series The state of AI Commons Garden mission statement AI Glossary archive  </description>
-    </item>
-    
   </channel>
 </rss>

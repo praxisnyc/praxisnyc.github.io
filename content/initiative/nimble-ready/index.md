@@ -5,7 +5,7 @@ description: LLM and degrowth
 cover: HJ0wpyOu1x.jpg
 category: initiative
 contact: true
-date: 2025-26-02
+date: 2025-02-26
 ---
 
 ### A framework for collaboration that reduces transaction costs via a handshake protocol that determines what agents can do together and ways to work

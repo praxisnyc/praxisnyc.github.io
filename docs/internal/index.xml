@@ -4,39 +4,30 @@
     <title>Internals on Praxis</title>
     <link>https://praxis.nyc/internal/</link>
     <description>Recent content in Internals on Praxis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/internal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://praxis.nyc/internal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Links</title>
       <link>https://praxis.nyc/internal/links/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/links/</guid>
-      <description>Suggestion Boxes fill in the correct form for any subject you want us to work on
- Proposed a study group topic Propose new media for study topic Directions for a new Soundboard and Soundboard HackMD Template - You can also just create a &amp;ldquo;New notes from template&amp;rdquo; in HackMD  Progress Trackers and Announcements  Praxis mastodon instance Praxis Activity Log (ask for credentials to edit)  Tools ask someone in the group for credentials  HackMD Airtable Jitsi Updated Team List  </description>
+      <description>&lt;h2 id=&#34;suggestion-boxes&#34;&gt;Suggestion Boxes&lt;/h2&gt;&#xA;&lt;p&gt;fill in the correct form for any subject you want us to work on&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/pagnvfP66tlmU5Ect/form&#34;&gt;Proposed a study group topic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/pagyVKXHafbjWbhqO/form&#34;&gt;Propose new media for study topic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@praxis/soundboard-template&#34;&gt;Directions for a new Soundboard and Soundboard HackMD Template&lt;/a&gt; - You can also just create a &amp;ldquo;New notes from template&amp;rdquo; in &lt;a href=&#34;https://hackmd.io/@praxis&#34;&gt;HackMD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;progress-trackers-and-announcements&#34;&gt;Progress Trackers and Announcements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://social.praxis.nyc/home&#34;&gt;Praxis mastodon instance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@praxis/TODO&#34;&gt;Praxis Activity Log&lt;/a&gt; (ask for credentials to edit)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;&#xA;&lt;h4 id=&#34;ask-someone-in-the-group-for-credentials&#34;&gt;ask someone in the group for credentials&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hackmd.io/?nav=overview&#34;&gt;HackMD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.airtable.com/&#34;&gt;Airtable&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://meet.jit.si/praxis&#34;&gt;Jitsi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://airtable.com/appJIh6IHX9HdvXll/shrsL9y1hdy8f9ZkE&#34;&gt;Updated Team List&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Soundboard</title>
       <link>https://praxis.nyc/internal/soundboard/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/soundboard/</guid>
-      <description>how to request a soundboard  copy soundboard template create new note and title it answer questions, add any other relevant infoemation change permissions to everyone (ask group if confused) share it with praxis signal group for consideration ]  how to prepare a public soundboard  decide on a date add date to praxis calendar add hackmd note link to calendar create zoom link (ask camille), add date and zoom link on note promote note with date on mastodon   how to announce a soundboard to outsiders  what&amp;rsquo;s praxis what&amp;rsquo;s soundboard what&amp;rsquo;s this soundboard (topic, format, desired goals can)  soundboard debrief how to prepare for a private soundboard pending</description>
+      <description>&lt;h1 id=&#34;how-to-request-a-soundboard&#34;&gt;how to request a soundboard&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;copy soundboard template&lt;/li&gt;&#xA;&lt;li&gt;create new note and title it&lt;/li&gt;&#xA;&lt;li&gt;answer questions, add any other relevant infoemation&lt;/li&gt;&#xA;&lt;li&gt;change permissions to everyone (ask group if confused)&lt;/li&gt;&#xA;&lt;li&gt;share it with &lt;a href=&#34;https://signal.group/#CjQKILSdL3eZy9vMSLQDkh_utsjQ4_acwGRWxu-GUN6OBT_KEhCMz6cKAAyCAPND1wOcbvDy&#34;&gt;praxis signal group&lt;/a&gt; for consideration&#xA;]&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;how-to-prepare-a-public-soundboard&#34;&gt;how to prepare a public soundboard&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;decide on a date&lt;/li&gt;&#xA;&lt;li&gt;add date to praxis calendar&lt;/li&gt;&#xA;&lt;li&gt;add hackmd note link to calendar&lt;/li&gt;&#xA;&lt;li&gt;create zoom link (ask camille), add date and zoom link on note&lt;/li&gt;&#xA;&lt;li&gt;promote note with date on mastodon&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;how-to-announce-a-soundboard-to-outsiders&#34;&gt;how to announce a soundboard to outsiders&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;what&amp;rsquo;s praxis&lt;/li&gt;&#xA;&lt;li&gt;what&amp;rsquo;s soundboard&lt;/li&gt;&#xA;&lt;li&gt;what&amp;rsquo;s this soundboard (topic, format, desired goals can)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;soundboard-debrief&#34;&gt;soundboard debrief&lt;/h1&gt;&#xA;&lt;h1 id=&#34;how-to-prepare-for-a-private-soundboard&#34;&gt;how to prepare for a private soundboard&lt;/h1&gt;&#xA;&lt;p&gt;pending&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Editing this website</title>
       <link>https://praxis.nyc/internal/editing/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/internal/editing/</guid>
-      <description>Praxis uses Hugo framework and is hosted on Github pages.
-Pages are markdown + frontmatter on Any page under content folder will be visible on the website, using format: praxis.nyc/(folder name)/(filename minus .md)
-To edit pages you&amp;rsquo;ll need to:
- Learn markdown basics Create a gitlab account Inform team to be added to repo&amp;rsquo;s project members Visit Gitlab IDE to edit Ask around for content templates, so frontmatter is correct Commit all your changes (you&amp;rsquo;ll need a message)  Troubleshooting:</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://praxis.nyc/&#34;&gt;Praxis&lt;/a&gt; uses &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; framework and is hosted on &lt;a href=&#34;https://github.com/praxisnyc/praxis.github.io/&#34;&gt;Github pages&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Pages are &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;markdown&lt;/a&gt; + frontmatter on Any page under &lt;code&gt;content&lt;/code&gt; folder will be visible on the website, using format: &lt;code&gt;praxis.nyc/(folder name)/(filename minus .md)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;To edit pages you&amp;rsquo;ll need to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Learn &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;markdown&lt;/a&gt; basics&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://gitlab.com/users/sign_up&#34;&gt;gitlab account&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Inform team to be added to repo&amp;rsquo;s &lt;a href=&#34;https://gitlab.com/praxis.nyc/praxis.nyc.gitlab.io/-/project_members&#34;&gt;project members&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Visit &lt;a href=&#34;https://gitlab.com/-/ide/project/praxis.nyc/praxis.nyc.gitlab.io/edit/main/-/content/&#34;&gt;Gitlab IDE&lt;/a&gt; to edit&lt;/li&gt;&#xA;&lt;li&gt;Ask around for content templates, so frontmatter is correct&lt;/li&gt;&#xA;&lt;li&gt;Commit all your changes (you&amp;rsquo;ll need a message)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Troubleshooting:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

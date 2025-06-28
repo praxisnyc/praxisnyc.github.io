@@ -4,27 +4,23 @@
     <title>Soundboards on Praxis</title>
     <link>https://praxis.nyc/soundboard/</link>
     <description>Recent content in Soundboards on Praxis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://praxis.nyc/soundboard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://praxis.nyc/soundboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://praxis.nyc/soundboard/herbalism/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/soundboard/herbalism/</guid>
-      <description>https://hackmd.io/@praxis/herbalism-soundboard</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hackmd.io/@praxis/herbalism-soundboard&#34;&gt;https://hackmd.io/@praxis/herbalism-soundboard&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>commons.garden</title>
       <link>https://praxis.nyc/soundboard/commons-garden/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://praxis.nyc/soundboard/commons-garden/</guid>
-      <description>Initial questions Where are you in your process? We just finished phase 1 with initial categories (spec, wireframe), and heading to phase 2, with people and organization categories, and better integration between categories.
- View phases list view categories draft  What can I help you with the most? Is this a better way to track initiatives? Any other standards we could be using? How to communicate initiative&amp;rsquo;s status so others know where we stand?</description>
+      <description>&lt;h2 id=&#34;initial-questions&#34;&gt;Initial questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;where-are-you-in-your-process&#34;&gt;Where are you in your process?&lt;/h3&gt;&#xA;&lt;p&gt;We just finished phase 1 with initial categories (spec, wireframe), and heading to phase 2, with people and organization categories, and better integration between categories.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gitlab.com/commons-garden/commons-garden.gitlab.io#commonsgarden&#34;&gt;View phases list&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.figma.com/file/7B9UNzqX5ZxXKtVJHNEvUc/documentation?type=whiteboard&amp;amp;t=K6Tsv6HTlRjHZZUL-6&#34;&gt;view categories draft&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-can-i-help-you-with-the-most&#34;&gt;What can I help you with the most?&lt;/h3&gt;&#xA;&lt;p&gt;Is this a better way to track initiatives? Any other standards we could be using? How to communicate initiative&amp;rsquo;s status so others know where we stand?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
