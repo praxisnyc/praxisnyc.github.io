@@ -4,6 +4,14 @@
     {{ $sass := resources.Get "css/main.scss" | css.Sass (dict "outputStyle"
     "compressed" "enableSourceMap" true) | fingerprint }} {{ $style := $sass |
     css.Sass }}
+        {{ if .Params.cover }}
+            <meta property="og:image" content="{{ .Site.BaseURL }}images/{{ .Params.cover }}">
+        {{ end }}
+                    <meta property="og:title" content="{{ if eq .Section "study" }}{{ .Title }} study group{{ else }}{{ .Title }}{{ end }}">
+                {{ with .Params.description }}
+                    <meta property="og:description" content="{{ . }}">
+                {{ end }}
+                        <meta property="og:type" content="{{ .Section }}">
     <link rel="stylesheet" href="{{ $style.Permalink }}" />
-    <title>{{ .Site.Title }}</title>
+    <title>{{ if eq .Section "study" }}{{ .Title }} study group{{ else }}{{ .Title }}{{ end }}</title>
 </head>
