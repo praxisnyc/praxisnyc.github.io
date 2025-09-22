@@ -3,9 +3,27 @@ title: disengagement
 cover: b85afad018b5088362e12a.jpg
 status: current
 category: study
-description: pending
+description: sexy quote pending
 date: 2025-09-11 02:03:16 -0500
 ---
+
+---
+
+For this round, we’re studying  how to disengage from neoliberal and hyper individualistic traps. Leaning into the praxis of it all, we’ll study case studies on how people have disengaged from 
+
+- mainstream media, 
+- unhealthy relationships, 
+- unjust financial terms, 
+- etc.
+
+### Do you have a case study you can share? 
+
+By case study, we mean any sort of writings (blogs, articles, books, anything) and videos that spotlight how others have thought for themselves across these topics. 
+
+Do you wanna join us? Email us at [hello@praxis.nyc](mailto:hello@praxis.nyc?subject=disengagement%20historical%20cases)
+<!-- 
+## What are praxis study groups?  -->
+
 
 ---
 
@@ -18,7 +36,7 @@ date: 2025-09-11 02:03:16 -0500
 ## TODO 
 
 1. [x] create praxis page
-1. [ ] ask for historical cases, "give us historical examples we're looking for" pointing to hello@praxis.nyc
+1. [x] ask for historical cases, "give us historical examples we're looking for" pointing to hello@praxis.nyc
 1. [ ] ensure all praxis members have access to email and "lobby" signal group
 1. [ ] announce "historical examples" request everywhere
 1. [ ] collate suggestions

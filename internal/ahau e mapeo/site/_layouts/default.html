@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<html>
+{% include head.html %}
+<body class="{%- if page.categories -%}{{ page.categories }}{%- endif -%}" id="{%- if page.status -%}{{ page.status }}{%- endif -%}">
+	<div class="container">
+		<article class="main">
+				{{ content }}
+		</article>
+	</div>
+{% include scripts.html %}
+</body>
+
+</html>
