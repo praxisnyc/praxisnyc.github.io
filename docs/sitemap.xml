@@ -5,7 +5,13 @@
     <loc>https://praxis.nyc/study/disengagement/</loc>
     <lastmod>2025-09-11T02:03:16-05:00</lastmod>
   </url><url>
+    <loc>https://praxis.nyc/tags/norules/</loc>
+    <lastmod>2025-09-11T02:03:16-05:00</lastmod>
+  </url><url>
     <loc>https://praxis.nyc/</loc>
+    <lastmod>2025-09-11T02:03:16-05:00</lastmod>
+  </url><url>
+    <loc>https://praxis.nyc/tags/</loc>
     <lastmod>2025-09-11T02:03:16-05:00</lastmod>
   </url><url>
     <loc>https://praxis.nyc/initiative/</loc>
@@ -147,7 +153,5 @@
     <lastmod>2019-01-21T18:03:16-05:00</lastmod>
   </url><url>
     <loc>https://praxis.nyc/categories/</loc>
-  </url><url>
-    <loc>https://praxis.nyc/tags/</loc>
   </url>
 </urlset>

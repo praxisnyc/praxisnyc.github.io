@@ -16,11 +16,9 @@
 				<h1>{{ .Title }}</h1>
 				{{if .Description}}<h2>{{ .Description }}</h2>{{ end }}
 			</header>
-			{{ if in .Params.Category "study" }}
-			{{ if not (in .Params.Badge "zine") }}
-			{{ partial "study-rules.html" . }}
-			{{ end }}
-			{{ end }}
+{{ if and (eq .Section "study") (not (in .Params.tags "noRules")) }}
+  {{ partial "rules.html" . }}
+{{ end }}
 			{{ .Content }}
 			{{ partial "footer.html" . }}
 			{{ if in .Params.Contact "true" }}
@@ -28,7 +26,5 @@
 			{{ end }}
 		</article>
 	</div>
-	{{ partial "scripts.html" . }} 
-</body>
-</html>
+	{{ partial "scripts.html" . }}
 

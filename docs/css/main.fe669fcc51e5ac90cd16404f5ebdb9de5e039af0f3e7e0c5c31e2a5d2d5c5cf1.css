@@ -15945,8 +15945,7 @@ span.badge {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: var(--gap-2);
-  border-top: solid 3px var(--color-fg);
-  padding: var(--gap-2) 0; }
+  border-top: solid 3px var(--color-fg); }
 
 @media screen and (max-width: 700px) {
   .instructions {

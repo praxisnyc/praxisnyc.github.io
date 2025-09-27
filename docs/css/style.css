@@ -16192,12 +16192,10 @@ span.badge {
   margin-top: 5px; }
 
 .instructions {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: var(--gap-2);
+
   border-top: solid 3px var(--color-fg);
   margin-top: var(--gap-8);
-  padding: var(--gap-2) 0; }
+   }
 
 .instructions p {
   font-size: 90%; }
