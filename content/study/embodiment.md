@@ -2,7 +2,6 @@
 title: Embodiment
 cover: e47217748c81d9db18d0f6.jpg
 status: previous
-category: study
 description: An anarchist state of being
 date: 2021-11-03
 ---

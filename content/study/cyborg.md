@@ -2,7 +2,6 @@
 title: Cyborg series
 cover: 6e6cc0d3e69c70f303b66f.webp
 status: previous
-category: study
 description: on cognitive assemblages
 date: 2022-12-03
 ---

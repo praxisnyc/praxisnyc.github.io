@@ -2,7 +2,6 @@
 title: bureaucracy
 cover: b85afad018b5088362e12a.jpg
 status: previous
-category: study
 description: recognizing the strings that bind us
 date: 2020-07-06 02:03:16 -0500
 objective: to break apart and understand functional tactics of bureaucracy to strenghten recognition and applicability of liberation strategies.

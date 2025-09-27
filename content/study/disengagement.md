@@ -2,7 +2,6 @@
 title: disengagement
 cover: 3f7cf66ccb7551bca8b823.jpg
 status: current
-category: study
 tags:
  - noInstructions
 description: a neoliberal bye

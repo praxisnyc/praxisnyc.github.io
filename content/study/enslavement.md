@@ -2,7 +2,6 @@
 title: enslavement
 cover: 7e0e527efeac335dec0cae.jpg
 status: previous
-category: study
 description: on Human Parasitism
 date: 2020-11-11
 ---

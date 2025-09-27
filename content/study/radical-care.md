@@ -2,7 +2,6 @@
 title: Radical Care
 cover: be72e91073442165ab54d0.gif
 status: previous
-category: study
 description: We Really Care, Do U?
 date: 2021-04-16
 objective: to break apart and understand functional tactics of bureaucracy to strenghten recognition and applicability of liberation strategies.

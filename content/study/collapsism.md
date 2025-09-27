@@ -2,7 +2,6 @@
 title: Collapsism
 cover: e29291637271669badd318.jpg
 status: previous
-category: study
 description: threat modeling for safety
 date: 2019-12-17 02:03:16 -0500
 ---

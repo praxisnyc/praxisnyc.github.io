@@ -2,7 +2,6 @@
 title: Making Space
 cover: 85cc9312c44fba1098bdae.webp
 status: previous
-category: study
 description: liberatory community praxis
 date: 2019-01-21 18:03:16 -0500
 ---

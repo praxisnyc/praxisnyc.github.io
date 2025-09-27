@@ -1,7 +1,6 @@
 ---
 title: Queer Families
 status: previous
-category: study
 cover: 6c23099ee2500efa356819.jpg
 description: "Non-oppressive Relationships of Love and Care"
 date: 2019-01-21 18:03:16 -0500

@@ -5,9 +5,9 @@
 	{{ partial "cover.html" . }}
 	<div class="background"></div>
 	<div class="box-content">
-			<aside>
+		<aside>
 			<div class="fixed">
-					{{ partial "logo.html" . }}
+				{{ partial "logo.html" . }}
 				{{ partial "footer.html" . }}
 			</div>
 		</aside>
@@ -16,9 +16,9 @@
 				<h1>{{ .Title }}</h1>
 				{{if .Description}}<h2>{{ .Description }}</h2>{{ end }}
 			</header>
-{{ if and (eq .Section "study") (not (in .Params.tags "noInstructions")) }}
-	{{ partial "instructions.html" . }}
-{{ end }}
+			{{ if and (eq .Section "study") (not (in .Params.tags "noInstructions")) }}
+			{{ partial "instructions.html" . }}
+			{{ end }}
 			{{ .Content }}
 			{{ partial "footer.html" . }}
 			{{ if in .Params.Contact "true" }}
@@ -27,4 +27,5 @@
 		</article>
 	</div>
 	{{ partial "scripts.html" . }}
-
+	
+	

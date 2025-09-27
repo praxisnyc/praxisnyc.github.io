@@ -2,7 +2,6 @@
 title: Panopticon
 cover: 6a39a9c55ea25b821887a8.jpg
 status: previous
-category: study
 description: The One-way Mirror
 date: 2021-04-12
 ---
