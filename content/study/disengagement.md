@@ -4,14 +4,14 @@ cover: b85afad018b5088362e12a.jpg
 status: current
 category: study
 tags:
- - noRules
+ - noInstructions
 description: (sexy quote pending)
 date: 2025-09-11 02:03:16 -0500
 ---
 
 ---
 
-For this round, we’re studying  how to disengage from neoliberal and hyper individualistic traps. Leaning into the praxis of it all, we’ll study case studies on how people have disengaged from 
+For this round, we’re studying  how to disengage from neoliberal and hyper individualistic traps. Leaning into the praxis of it all, we’ll study historical cases, any medium on how people have disengaged from 
 
 - mainstream media, 
 - unhealthy relationships, 
@@ -24,7 +24,7 @@ By case study, we mean any sort of writings (blogs, articles, books, anything) a
 
 Do you wanna join us? Email us at [hello@praxis.nyc](mailto:hello@praxis.nyc?subject=disengagement%20historical%20cases)
 
-{{< rules >}}
+{{< instructions >}}
 
 ---
 
@@ -39,7 +39,7 @@ Not really a physical encounter, just a heads-up to read for session 1
 ### Media 
 
 *moving towards community fueled storytelling*
-* (2-3 case studies)
+* (2-3 historical cases, any medium)
 
 ---
 
@@ -47,7 +47,7 @@ Not really a physical encounter, just a heads-up to read for session 1
 ### Relationships 
 
 *different ways for showing up for one another* 
-* (2-3 case studies)
+* (2-3 historical cases, any medium)
 
 ---
 
@@ -55,7 +55,7 @@ Not really a physical encounter, just a heads-up to read for session 1
 ### Time 
 
 *moving beyond the totalizing future*
-* (2-3 case studies)
+* (2-3 historical cases, any medium)
 
 ---
 
