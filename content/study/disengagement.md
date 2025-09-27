@@ -24,7 +24,6 @@ Do you wanna join us? Email us at [hello@praxis.nyc](mailto:hello@praxis.nyc?sub
 <!-- 
 ## What are praxis study groups?  -->
 
-
 ---
 
 ## Links
