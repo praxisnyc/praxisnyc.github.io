@@ -22,9 +22,18 @@
 			</div>
 				<div class="category-menu">
 						
-						 {{ range .Pages }}
-						{{ partial "category-post.html" . }}
-						{{ end }}
+										 {{ if eq .Section "study" }}
+											 {{ range where .Pages "Params.status" "current" }}
+												 {{ partial "category-post.html" . }}
+											 {{ end }}
+											 {{ range where .Pages "Params.status" "previous" }}
+												 {{ partial "category-post.html" . }}
+											 {{ end }}
+										 {{ else }}
+											 {{ range .Pages }}
+												 {{ partial "category-post.html" . }}
+											 {{ end }}
+										 {{ end }}
 					</div>
 		{{ partial "footer.html" . }}
 		

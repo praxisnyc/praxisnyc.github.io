@@ -16,46 +16,47 @@
 				<div>
 					<h1>{{ .Site.Title }}</h1>
 				</div>
-				<div>
-					<h3>Decolonize<br>your<br>attention</h3>
+				<div class="the-slogan">
+					<p>We are noisy people</p>
+					<p>For a better living</p>
 				</div>
 			</header>
 			<div>
 				<p>Praxis is a not-for-profit design studio primarily focused on delivering tools for the commons, mainly through open-source technologies.</p>
 			</div>
-						
-
+			
+			
 			<div class="category-menu">
 				<section>
-				<p class="paths">initiatives</p>
-
+					<p class="paths">initiatives</p>
+					
 					{{ range where .Site.Pages "Params.category" "initiative" }}
 					{{ if not (in .Params.status "draft") }}
 					{{ partial "category-post.html" . }}
 					{{ end }}
 					{{ end }}
-
+					
 				</section>
 				<section>
-				<p class="paths">slides</p>
-
+					<p class="paths">slides</p>
+					
 					{{ range where .Site.Pages "Params.category" "slide" }}
 					{{ if not (in .Params.status "draft") }}
 					{{ partial "category-post.html" . }}
 					{{ end }}
 					{{ end }}
-
+					
 				</section>
 				<section>
-				<p class="paths">soundboards</p>
+					<p class="paths">soundboards</p>
 					<p>Soundboards are rapid-fire feedback sessions for assorted projects</p>
 					{{ range where .Site.Pages "Params.category" "soundboard" }}
 					{{ if not (in .Params.status "draft") }}
 					{{ partial "category-post.html" . }}
 					{{ end }}
 					{{ end }}
-
-
+					
+					
 				</section>
 				<!-- <section>
 					<h3>Articles</h3>
@@ -66,25 +67,25 @@
 					(Soon)
 					{{ end }}
 					{{ end }}
-
+					
 				</section> -->
-
+				
 				<section>
 					<p class="paths">study</p>
-
-				<p>With seminal topics and diverse authors, we interrogate and develop our disparate and shared practices unto resistance.</p>
-
-				{{ range where .Site.Pages "Params.category" "study" }}
-				{{ if not (in .Params.status "draft") }}
-				{{ partial "category-post.html" . }}
-				{{ end }}
-				{{ end }}
+					
+					<p>With seminal topics and diverse authors, we interrogate and develop our disparate and shared practices unto resistance.</p>
+					
+					{{ range where .Site.Pages "Section" "study" }}
+					{{ if not (in .Params.status "draft") }}
+					{{ partial "category-post.html" . }}
+					{{ end }}
+					{{ end }}
 				</section>
-
+				
 			</div>
 			<div>
 			</div>
-
+			
 			{{ partial "footer.html" . }}
 		</article>
 	</div>

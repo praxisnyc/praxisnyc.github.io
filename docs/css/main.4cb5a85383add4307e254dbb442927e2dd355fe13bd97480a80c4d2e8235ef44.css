@@ -15124,7 +15124,7 @@ li:not(:first-of-type) {
   color: white;
   background-color: black;
   display: inline-block;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: bold;
   margin-bottom: 1px; }
 

@@ -1,11 +1,11 @@
 ---
 title: disengagement
-cover: b85afad018b5088362e12a.jpg
+cover: 3f7cf66ccb7551bca8b823.jpg
 status: current
 category: study
 tags:
  - noInstructions
-description: (sexy quote pending)
+description: a neoliberal bye
 date: 2025-09-11 02:03:16 -0500
 ---
 
