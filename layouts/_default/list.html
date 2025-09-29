@@ -2,11 +2,11 @@
 {{ partial "html.html" . }}
 {{ partial "head.html" . }}
 <body class="list">
-		{{ partial "cover.html" . }}
+	{{ partial "cover.html" . }}
 	<div class="box-content">
-			<aside>
+		<aside>
 			<div class="fixed">
-					{{ partial "logo.html" . }}
+				{{ partial "logo.html" . }}
 				{{ partial "footer.html" . }}
 			</div>
 		</aside>
@@ -20,23 +20,23 @@
 				{{ end }}
 				{{ if in .Title "study" }}yyyy{{ end }}
 			</div>
-				<div class="category-menu">
-						
-										 {{ if eq .Section "study" }}
-											 {{ range where .Pages "Params.status" "current" }}
-												 {{ partial "category-post.html" . }}
-											 {{ end }}
-											 {{ range where .Pages "Params.status" "previous" }}
-												 {{ partial "category-post.html" . }}
-											 {{ end }}
-										 {{ else }}
-											 {{ range .Pages }}
-												 {{ partial "category-post.html" . }}
-											 {{ end }}
-										 {{ end }}
-					</div>
-		{{ partial "footer.html" . }}
-		
+			<div class="category-menu">
+				
+				{{ if eq .Section "study" }}
+				{{ range where .Pages "Params.status" "current" }}
+				{{ partial "category-post.html" . }}
+				{{ end }}
+				{{ range where .Pages "Params.status" "previous" }}
+				{{ partial "category-post.html" . }}
+				{{ end }}
+				{{ else }}
+				{{ range .Pages }}
+				{{ partial "category-post.html" . }}
+				{{ end }}
+				{{ end }}
+			</div>
+			{{ partial "footer.html" . }}
+			
 		</article>
 	</div>
 	{{ partial "scripts.html" . }} 

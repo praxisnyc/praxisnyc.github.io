@@ -8,7 +8,7 @@
 					</div>
 				</div>
 				<div class="category-menu">
-					{{ range where .Site.Pages "Params.category" "study" }}
+					{{ range where .Site.Pages "Section" "study" }}
 					{{ if in .Params.status "current" }}
 					{{ partial "category-post.html" . }}
 					{{ end }}
@@ -19,7 +19,7 @@
 					{{ partial "category-post.html" . }}
 					{{ end }}
 					{{ end }}
-					{{ range where .Site.Pages "Params.category" "study" }}
+					{{ range where .Site.Pages "Section" "study" }}
 					{{ if in .Params.status "previous" }}
 					{{ partial "category-post.html" . }}
 					{{ end }}

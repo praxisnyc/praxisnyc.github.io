@@ -14,6 +14,7 @@ We meet every other tuesday 6 PM EST. [Signal group](https://signal.group/#CjQKI
 
 ---
 
+
 * Apr 18, 2023 7PM EST on [jit.si](https://meet.jit.si/praxis)
 * Show and tell:
 *   [Everything to Know About Artificial Intelligence, or AI](https://www.nytimes.com/article/ai-artificial-intelligence-chatbot.html) (Article)
