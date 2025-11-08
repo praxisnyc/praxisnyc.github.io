@@ -10,12 +10,12 @@ Donate to food pantries because:
 - They know what is needed
 - They need all they can get at this time
 
-### Below is a list of donation links for food pantries located in Bushwick/Ridgewood, NY.
+### Below is a list of donation links for food pantries located in Bushwick/Ridgewood, NY
 
 - [Black Veterans for Social Justice](https://bvsj.org/?campaign=549456)
 - [Brooklyn Rescue Mission](https://brmuhc.networkforgood.com/projects/154414-providing-meals-to-the-needy-during-this-time-of-crisis)
 - [Bushwick City Farm](https://withfriends.events/o/bushwick_city_farms/donate/)
-- [Catholic Charities](https://secure.qgiv.com/event/spaf/)
+- [Catholic Charities](https://www.ccbq.org/give/#give)
 - [City Harvest Mobile Market](https://secure.cityharvest.org/site/Donation2)
 - [Collective Focus LLC](https://collectivefocus.site/donate-donacion)
 - [Cornerstone SDA Church](https://www.csbk.church/online-giving)
@@ -26,4 +26,4 @@ Donate to food pantries because:
 - [Open Door Family Life Center](https://www.opendoorflc.org/donate)
 - [St. John's Bread & Life](https://secure.qgiv.com/event/spaf/)
 - [Thurston Memorial Outreach](https://thurstonoutreach.org/donate.html)
-- [Woodbine](https://www.woodbine.nyc/mutualaid)
+- [Woodbine](https://www.woodbine.nyc/support)
