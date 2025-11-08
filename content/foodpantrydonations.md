@@ -1,8 +1,16 @@
 ---
 title: Donate to Bushwick food pantries
-description: Help our community
+description: As our federal government fails us, we show up for each other
 date: 2025-11-07
 ---
+
+Donate to food pantries because:
+
+- [They are highly efficient](https://www.instagram.com/direct/t/109427217121717/) (they know how to stretch a dollar)
+- They know what is needed
+- They need all they can get at this time
+
+### Below is a list of donation links for food pantries located in Bushwick/Ridgewood, NY.
 
 - [Black Veterans for Social Justice](https://bvsj.org/?campaign=549456)
 - [Brooklyn Rescue Mission](https://brmuhc.networkforgood.com/projects/154414-providing-meals-to-the-needy-during-this-time-of-crisis)
