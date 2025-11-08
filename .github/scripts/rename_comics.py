@@ -6,16 +6,21 @@ import shutil
 
 import sys
 
-# Se passado argumento, usa como pasta alvo; senão, usa pasta onde o script está
+# Se passado argumento, usa como pasta alvo; senão, usa pasta de comics
 
 if len(sys.argv) > 1:
     target_folder = os.path.abspath(sys.argv[1])
 else:
-    target_folder = os.getcwd()
+    target_folder = "/Users/nfrota/Documents/sync/comics"
 
 script_name = os.path.basename(__file__)
 
 for filename in os.listdir(target_folder):
+    # Ignorar arquivos ocultos e específicos
+    if filename.startswith('.') or filename in ['.gitignore', '.gitattributes', '.DS_Store']:
+        print(f"Ignorando arquivo: '{filename}'")
+        continue
+
     file_path = os.path.join(target_folder, filename)
     if os.path.isfile(file_path) and filename != script_name:
         # Remove tudo " (*)" do nome
