@@ -1,0 +1,35 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "🔄 Sync settings",
+			"type": "shell",
+			"command": "python3 .github/scripts/Sync_settings.py",
+			"group": "build"
+		},
+		{
+			"label": "🔌 Media SSH",
+			"type": "shell",
+			"command": "ssh -t nonlinear@192.168.1.152 'cd /serve/media/; exec bash'",
+			"group": "build",
+			"presentation": {
+				"panel": "new"
+			}
+		},
+		{
+			"label": "🔌 aiai SSH",
+			"type": "shell",
+			"command": "ssh nonlinear@192.168.1.159; exec bash'",
+			"group": "build",
+			"presentation": {
+				"panel": "new"
+			}
+		},
+		{
+			"label": "🔄 Comics sync",
+			"type": "shell",
+			"command": "python3 .github/scripts/Comics_sync.py",
+			"group": "build"
+		}
+	]
+}

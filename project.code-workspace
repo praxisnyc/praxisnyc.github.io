@@ -6,7 +6,7 @@
   ],
   "settings": {
     // Set the title bar format
-    "window.title": "praxis",
+    "window.title": "📕 praxis",
 
     // Hugo / project exclusions
     "search.exclude": {
@@ -14,5 +14,64 @@
       "**/internal/**": true,
       "**/resources/**": true
     }
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "🖋️ Kill hugo",
+        "type": "shell",
+        "command": "pkill -f 'hugo serve'",
+        "group": "build"
+      },
+      {
+        "label": "🖋️ Start hugo",
+        "type": "shell",
+        "command": "zsh .github/scripts/Start_hugo.sh '${file}'",
+        "group": "build",
+        "runOptions": {
+          "runOn": "folderOpen"
+        }
+      },
+      {
+        "label": "🖼️ Post new illos",
+        "type": "shell",
+        "command": "python3 .github/scripts/post_new_illos.py",
+        "group": "build"
+      },
+      {
+        "label": "👁️ Preview current file",
+        "type": "shell",
+        "command": "zsh .github/scripts/Start_hugo.sh ${relativeFile}",
+        "group": "build",
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared"
+        }
+      },
+      {
+        "label": "👁️ Preview on hugo",
+        "type": "shell",
+        "command": "open",
+        "args": [
+          "http://localhost:1313/${fileBasenameNoExtension}"
+        ],
+        "group": "build"
+      },
+      {
+        "label": "✅ Commit changes",
+        "type": "shell",
+        "command": "hugo && git add -A && echo 'Enter commit message:' && read msg && git commit -m \"$msg\" && git pull && git push",
+        "group": "build",
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared"
+        }
+      }
+    ]
   }
 }
