@@ -17,18 +17,9 @@
 			}
 		},
 		{
-			"label": "🔌 aiai SSH",
+			"label": "🔄 Sync comics",
 			"type": "shell",
-			"command": "ssh nonlinear@192.168.1.159; exec bash'",
-			"group": "build",
-			"presentation": {
-				"panel": "new"
-			}
-		},
-		{
-			"label": "🔄 Comics sync",
-			"type": "shell",
-			"command": "python3 .github/scripts/Comics_sync.py",
+			"command": "python3 .github/scripts/sync_comics.py",
 			"group": "build"
 		}
 	]

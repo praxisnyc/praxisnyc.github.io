@@ -15,9 +15,7 @@ date: 2025-03-17
 - If you're a **tech-adjacent** type who wants to empower yourself with AI/LLM, while keeping your autonomy
 - If you're a **manager** of a to-commons project and want to familiarize with terms
 
----
-
-## Links
+<!-- ## Links
 
 |     | Title                                                                                                         | Tool          |
 | --- | ------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -25,7 +23,7 @@ date: 2025-03-17
 | 📆  | {calendar event}                                                                                              |
 | 💬  | [chat group](https://signal.group/#CjQKIIdZM626CnOYE3Xzk-W1G6CgVXnbrYdrMXHHxZDra1NzEhAGKcSNraIMeX5sHAJKvlFB)  | signal        |
 | 📝  | [community notes](https://hackmd.io/@praxis/cyborg-support)                                                   |
-| 📋  | [board](https://www.figma.com/board/22B9Kuqfd89zNP4SuIfwi6/cyborg.support?node-id=0%3A1&t=iDT2L6zB6CbIEjBB-1) | figjam        |
+| 📋  | [board](https://www.figma.com/board/22B9Kuqfd89zNP4SuIfwi6/cyborg.support?node-id=0%3A1&t=iDT2L6zB6CbIEjBB-1) | figjam        | -->
 
 ---
 
