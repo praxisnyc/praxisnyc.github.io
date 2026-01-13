@@ -148,16 +148,43 @@ This is a small, content-first repository that serves as a personal knowledge ba
 
 If anything in this story is incorrect or you'd like me to expand a section (Hugo config, Docker details, or examples), tell me which area to deepen and I will update the instructions.
 
-## Dynamic Chatmode Indexing and Recommendations
+## Dynamic Resource Indexing and Recommendations
 
-To ensure chatmode guidance is always current:
+To provide contextually relevant suggestions from available workspace resources:
 
-- **Always index the contents of `.github/chatmodes/` at runtime.**
-- For each chatmode file, extract the name and summary from its frontmatter or description.
-- List and briefly describe all available chatmodes in the workspace.
-- When prompted, analyze the current conversation and context to recommend the most suitable chatmode(s).
-- Do not use a hardcoded list—changes to chatmode files (additions, removals, edits) are automatically reflected.
+### Inventory Files
 
-**Example prompt:**
+The workspace maintains three key inventory files that catalog available tools and resources:
 
-> “Index all chatmodes in `.github/chatmodes/`, summarize their purpose and ideal use case, and recommend the best chatmode(s) for my current workflow based on recent conversation.”
+- **`.github/prompts.md`**: Custom GitHub Copilot prompts organized by category (AI assistants, literature research, project management, content tools, etc.)
+- **`.github/chatmodes.md`**: Specialized chatmodes for different workflows (design, development, content, testing, etc.)
+- **`.github/scripts.md`**: Automation scripts for content sync, media management, and development tasks
+
+### Required Behavior
+
+At runtime, when appropriate to the conversation:
+
+1. **Index the inventory files**: Read `.github/prompts.md`, `.github/chatmodes.md`, and `.github/scripts.md` to understand available resources.
+2. **Analyze conversation context**: Determine what the user is trying to accomplish based on recent discussion.
+3. **Make relevant suggestions**: Proactively recommend prompts, chatmodes, or scripts that would help with the current task.
+4. **Stay current**: Do not use hardcoded lists—always read the latest file contents to reflect additions, removals, or edits.
+
+### When to Suggest Resources
+
+- **Prompts**: When user needs specialized assistance (e.g., literature research, project planning, home automation)
+- **Chatmodes**: When switching contexts or expertise areas (e.g., design work, testing, content creation)
+- **Scripts**: When automation would save time (e.g., syncing content, managing media, Airtable integration)
+
+### Example Interaction
+
+**User**: "I need to search for references in my book collection about cyborg theory."
+
+**Agent Response**:
+1. Read `.github/prompts.md` to discover literature search tools
+2. Suggest: "I can help with that. The workspace has a `literature` prompt for RAG-powered book searches. Would you like me to activate that mode to search your indexed collection?"
+
+**User**: "I'm working on implementing a new UI component."
+
+**Agent Response**:
+1. Read `.github/chatmodes.md` to find design-related modes
+2. Suggest: "For UI component work, the `Design engineer` chatmode is optimized for translating design intent into production-ready components using Material UI and React. Would you like to switch to that mode?"

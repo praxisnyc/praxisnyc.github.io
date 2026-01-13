@@ -1,7 +1,11 @@
 {
   "folders": [
     {
-      "path": "./"
+      "path": "./",
+      "name": "📕 praxis"
+    {
+      "path": "/Users/nfrota/Documents/literature",
+      "name": "📚 literature"
     }
   ],
   "settings": {

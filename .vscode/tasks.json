@@ -4,7 +4,7 @@
 		{
 			"label": "🔄 Sync settings",
 			"type": "shell",
-			"command": "python3 .github/scripts/Sync_settings.py",
+			"command": "/opt/homebrew/bin/python3.11 .github/scripts/Sync_settings.py",
 			"group": "build"
 		},
 		{
@@ -19,7 +19,7 @@
 		{
 			"label": "🔄 Sync comics",
 			"type": "shell",
-			"command": "python3 .github/scripts/sync_comics.py",
+			"command": "/opt/homebrew/bin/python3.11 .github/scripts/sync_comics.py",
 			"group": "build"
 		}
 	]
